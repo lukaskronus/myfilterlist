@@ -27,5 +27,5 @@
             "type": "hosts"
         }
     ],
-    "transformations": ["RemoveComments","RemoveModifiers","Compress","Validate","RemoveEmptyLines","TrimLines","Deduplicate"]
+    "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
 }
