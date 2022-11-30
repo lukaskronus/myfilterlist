@@ -1,0 +1,31 @@
+{
+  "name": "Full list",
+  "sources": [
+    {
+      "name": "Lite list",
+      "source": "./adblock/lite.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hostsVN",
+      "source": "./adblock/hostsvn.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "OISD",
+      "source": "https://abp.oisd.nl/",
+      "type": "adblock"
+    },
+    {
+      "name": "1Hosts Pro",
+      "source": "https://badmojr.gitlab.io/1hosts/Pro/hosts.txt",
+      "type": "hosts"
+    },
+    {
+      "name": "hBlock",
+      "source": "https://hblock.molinero.dev/hosts_adblock.txt",
+      "type": "adblock"
+    }
+  ],
+  "transformations": ["RemoveComments","RemoveModifiers","Compress","Validate","RemoveEmptyLines","TrimLines","Deduplicate"]
+}

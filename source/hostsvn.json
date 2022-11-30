@@ -1,0 +1,26 @@
+{
+    "name": "HostsVN Compiled",
+    "sources": [
+      {
+        "name": "hostsVN",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+        "type": "hosts"
+      },
+      {
+        "name": "Adult",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts",
+        "type": "hosts"
+      },
+      {
+        "name": "Gambling",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts",
+        "type": "hosts"
+      },
+      {
+        "name": "Threat",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts",
+        "type": "hosts"
+      }
+    ],
+    "transformations": ["RemoveComments","RemoveModifiers","Compress","Validate","RemoveEmptyLines","TrimLines","Deduplicate"]
+}

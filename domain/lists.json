@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Lite list",
+		"url": "../adblock/lite.txt",
+		"format": "adbp"
+	},
+	{
+		"name": "HostsVN",
+		"url": "../adblock/hostvn.txt",
+		"format": "adbp"
+	},
+	{
+		"name": "Full list",
+		"url": "../adblock/full.txt",
+		"format": "adbp"
+	},
+	{
+		"name": "ABPVN",
+		"url": "../adblock/extra.txt",
+		"format": "adbp"
+	}
+]

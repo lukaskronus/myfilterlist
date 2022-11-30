@@ -1,0 +1,46 @@
+name: Create Filter Lists
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: "Make Lists"
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: actions/checkout@main
+
+    - uses: actions/setup-python@main
+      with:
+        python-version: '3.9'
+    
+    - uses: actions/setup-node@main
+      with:
+        node-version: '16'  
+      
+    - name: Dependencies
+      run: |
+        npm i -g @adguard/hostlist-compiler
+        python -m pip install --upgrade pip requests
+    
+    - name: Compile Lists
+      run: |
+        hostlist-compiler -c ./source/hostsvn.json -o ./adblock/hostsvn.txt
+        hostlist-compiler -c ./source/lite.json -o ./adblock/lite.txt
+        hostlist-compiler -c ./source/full.json -o ./adblock/filter.txt
+        hostlist-compiler -c ./source/extra.json -o ./adblock/extra.txt
+      
+    - name: Convert to domain
+      working-directory: domain
+      run: python convertlists.py lists.json ./ -vv
+    
+    - name: Start commit change
+      run: echo 'MSG=Update filter list at $(date +"%Y%m%d")' >> $GITHUB_ENV
+    
+    - name: Commit changes
+      uses: EndBug/add-and-commit@main
+      with:
+        default_author: github_actions
+        message: ${{ env.MSG }}
