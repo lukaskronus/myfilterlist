@@ -4,7 +4,7 @@
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/hostsvn.txt",
         "Base Output Filename": "hostsvn-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-11-30T11:12:59.376Z",
+            "Last Modified": "2022-11-30T11:18:07.476Z",
             "Title": "HostsVN Compiled"
         },
         "Conversion": [
@@ -47,7 +47,7 @@
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/lite.txt",
         "Base Output Filename": "lite-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-11-30T11:13:11.927Z",
+            "Last Modified": "2022-11-30T11:18:19.647Z",
             "Title": "Lite list"
         },
         "Conversion": [
@@ -86,11 +86,54 @@
         "Domains Output": 154123
     },
     {
+        "Title": "Full list",
+        "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/filter.txt",
+        "Base Output Filename": "filter-{FORMAT}.txt",
+        "Header": {
+            "Last Modified": "2022-11-30T11:19:14.222Z",
+            "Title": "Full list"
+        },
+        "Conversion": [
+            [
+                "Total Lines Processed",
+                487588
+            ],
+            [
+                "Comment Lines",
+                6
+            ],
+            [
+                "Empty Lines",
+                2441
+            ],
+            [
+                "Non-Domain-only Rules Excluded",
+                3033
+            ],
+            [
+                "Domain-only Rules Excluded (unsupported options)",
+                3
+            ],
+            [
+                "Domain-only Rules Excluded (exception conflict)",
+                84
+            ],
+            [
+                "Domain-only Rules Output",
+                484462
+            ]
+        ],
+        "Output Formats": {
+            "Just Domains": "filter-justdomains.txt"
+        },
+        "Domains Output": 484462
+    },
+    {
         "Title": "Extra list",
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/extra.txt",
         "Base Output Filename": "extra-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-11-30T11:14:31.176Z",
+            "Last Modified": "2022-11-30T11:19:37.254Z",
             "Title": "Extra list"
         },
         "Conversion": [
