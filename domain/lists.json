@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Full list",
-		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/full.txt",
+		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/filter.txt",
 		"format": "adbp"
 	},
 	{
