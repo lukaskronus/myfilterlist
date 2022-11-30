@@ -1,0 +1,26 @@
+{
+  "name": "Cloudflare",
+  "sources": [
+    {
+      "name": "ad-wars",
+      "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+      "type": "hosts"
+    },
+    {
+      "name":" tiuxo",
+      "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
+      "type": "hosts"
+    },
+    {
+      "name": "Adguard DNS Filter",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "OISD",
+      "source": "https://abp.oisd.nl/",
+      "type": "adblock"
+    }
+  ],
+  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"]
+}
