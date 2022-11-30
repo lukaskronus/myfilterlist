@@ -37,7 +37,7 @@ jobs:
       run: python convertlists.py lists.json ./ -vv
     
     - name: Start commit change
-      run: echo 'MSG=Update filter list at $(date +"%Y%m%d")' >> $GITHUB_ENV
+      run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV
     
     - name: Commit changes
       uses: EndBug/add-and-commit@main
