@@ -1,0 +1,29 @@
+name: Cloudflare Zero Trust
+
+on:
+  push:
+    paths:
+      - 'domain/lists/cloudflare-justdomains.txt'
+      - 'cf_zerotrust.sh'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Cloudflare Zero Trust
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: actions/checkout@main
+    
+    - name: Dependencies
+      env:
+        DEBIAN_FRONTEND: noninteractive
+      run: |
+        sudo -E apt-get -qq update
+        sudo -E apt-get -y install wget curl jq
+
+    - name: Updating Cloudflare Gateway List
+      env:
+        CF_ID: ${{ secrets.CF_ID }}
+        CF_AC: ${{ secrets.CF_AC }}
+        CF_TOKEN: ${{ secrets.CF_TOKEN }}
+      run: bash cf_zerotrust.sh
