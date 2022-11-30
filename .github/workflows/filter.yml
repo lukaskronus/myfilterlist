@@ -2,7 +2,7 @@ name: Create Filter Lists
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -30,8 +30,9 @@ jobs:
         hostlist-compiler -c ./source/hostsvn.json -o ./adblock/hostsvn.txt
         hostlist-compiler -c ./source/lite.json -o ./adblock/lite.txt
         hostlist-compiler -c ./source/full.json -o ./adblock/filter.txt
+        hostlist-compiler -c ./source/cloudflare.json -o ./adblock/cf.txt
         hostlist-compiler -c ./source/extra.json -o ./adblock/extra.txt
-      
+
     - name: Convert to domain
       working-directory: domain
       run: python convertlists.py lists.json ./ -vv

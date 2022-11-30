@@ -18,5 +18,11 @@
 		"name": "Extra list",
 		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/extra.txt",
 		"format": "adbp"
+	},
+	{
+		"name": "Cloudflare Zero Trust",
+		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/cf.txt",
+		"format": "adbp",
+		"outputfile": "cloudflare.txt"
 	}
 ]
