@@ -2,7 +2,7 @@
 ruleID="8c29a185-7d1b-4b49-b8d9-8145ed4437cf"
 
 # Split to 1000 lines (Cloudflare Free Plan)
-wget -c "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/domain/lists/cloudflare-justdomains.txt" > raw.txt
+wget -O raw.txt "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/domain/lists/cloudflare-justdomains.txt"
 split -l 1000 -d raw.txt blockedList
 mkdir -p final
 mv blockedList* final/
