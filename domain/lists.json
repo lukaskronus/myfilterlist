@@ -1,22 +1,22 @@
 [
 	{
-		"name": "Lite list",
-		"url": "../adblock/lite.txt",
+		"name": "HostsVN",
+		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/hostsvn.txt",
 		"format": "adbp"
 	},
 	{
-		"name": "HostsVN",
-		"url": "../adblock/hostvn.txt",
+		"name": "Lite list",
+		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/lite.txt",
 		"format": "adbp"
 	},
 	{
 		"name": "Full list",
-		"url": "../adblock/full.txt",
+		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/full.txt",
 		"format": "adbp"
 	},
 	{
-		"name": "ABPVN",
-		"url": "../adblock/extra.txt",
+		"name": "Extra list",
+		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/extra.txt",
 		"format": "adbp"
 	}
 ]

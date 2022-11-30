@@ -32,9 +32,9 @@ jobs:
         hostlist-compiler -c ./source/full.json -o ./adblock/filter.txt
         hostlist-compiler -c ./source/extra.json -o ./adblock/extra.txt
       
-    #- name: Convert to domain
-    #  working-directory: domain
-    #  run: python convertlists.py lists.json ./ -vv
+    - name: Convert to domain
+      working-directory: domain
+      run: python convertlists.py lists.json ./ -vv
     
     - name: Start commit change
       run: echo 'MSG=Update filter list at $(date +"%Y%m%d")' >> $GITHUB_ENV

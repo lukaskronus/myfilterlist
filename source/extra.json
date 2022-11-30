@@ -1,5 +1,5 @@
 {
-  "name": "Fukuro Extra",
+  "name": "Extra list",
   "sources": [
     {
       "name": "GoodbyeAds",
@@ -22,5 +22,5 @@
       "type": "hosts"
     }
   ],
-  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
+  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"]
 }
