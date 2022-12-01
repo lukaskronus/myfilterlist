@@ -1,10 +1,9 @@
 name: Cloudflare Zero Trust
 
 on:
-  push:
-    paths:
-      - 'domain/lists/cloudflare-justdomains.txt'
-      - 'cf_zerotrust.sh'
+  workflow_run:
+    workflows: ["Create Filter Lists"]
+    types: [completed]
   workflow_dispatch:
 
 jobs:
