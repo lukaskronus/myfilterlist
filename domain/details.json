@@ -4,7 +4,7 @@
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/hostsvn.txt",
         "Base Output Filename": "hostsvn-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-11T01:49:29.531Z",
+            "Last Modified": "2022-12-12T01:44:53.918Z",
             "Title": "HostsVN Compiled"
         },
         "Conversion": [
@@ -47,13 +47,13 @@
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/lite.txt",
         "Base Output Filename": "lite-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-11T01:49:43.051Z",
+            "Last Modified": "2022-12-12T01:45:04.488Z",
             "Title": "Lite list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                158724
+                155094
             ],
             [
                 "Comment Lines",
@@ -61,7 +61,7 @@
             ],
             [
                 "Empty Lines",
-                2432
+                2433
             ],
             [
                 "Non-Domain-only Rules Excluded",
@@ -77,26 +77,26 @@
             ],
             [
                 "Domain-only Rules Output",
-                155618
+                151988
             ]
         ],
         "Output Formats": {
             "Just Domains": "lite-justdomains.txt"
         },
-        "Domains Output": 155618
+        "Domains Output": 151988
     },
     {
         "Title": "Full list",
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/filter.txt",
         "Base Output Filename": "filter-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-11T01:50:32.267Z",
+            "Last Modified": "2022-12-12T01:45:42.865Z",
             "Title": "Full list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                438542
+                416827
             ],
             [
                 "Comment Lines",
@@ -104,7 +104,7 @@
             ],
             [
                 "Empty Lines",
-                2442
+                2443
             ],
             [
                 "Non-Domain-only Rules Excluded",
@@ -120,20 +120,20 @@
             ],
             [
                 "Domain-only Rules Output",
-                435404
+                413689
             ]
         ],
         "Output Formats": {
             "Just Domains": "filter-justdomains.txt"
         },
-        "Domains Output": 435404
+        "Domains Output": 413689
     },
     {
         "Title": "Extra list",
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/extra.txt",
         "Base Output Filename": "extra-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-11T01:51:04.570Z",
+            "Last Modified": "2022-12-12T01:46:08.591Z",
             "Title": "Extra list"
         },
         "Conversion": [
@@ -176,13 +176,13 @@
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/cf.txt",
         "Base Output Filename": "cloudflare-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-11T01:50:38.924Z",
+            "Last Modified": "2022-12-12T01:45:48.042Z",
             "Title": "Cloudflare"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                255127
+                232249
             ],
             [
                 "Comment Lines",
@@ -194,7 +194,7 @@
             ],
             [
                 "Non-Domain-only Rules Excluded",
-                641
+                640
             ],
             [
                 "Domain-only Rules Excluded (unsupported options)",
@@ -206,12 +206,12 @@
             ],
             [
                 "Domain-only Rules Output",
-                254423
+                231546
             ]
         ],
         "Output Formats": {
             "Just Domains": "cloudflare-justdomains.txt"
         },
-        "Domains Output": 254423
+        "Domains Output": 231546
     }
 ]
