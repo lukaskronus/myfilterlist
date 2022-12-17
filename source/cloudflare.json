@@ -17,8 +17,18 @@
       "type": "adblock"
     },
     {
+      "name": "StevenBlack",
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
+      "type": "hosts"
+    },
+    {
       "name": "1Hosts Pro",
       "source": "https://o0.pages.dev/Pro/adblock.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hBlock",
+      "source": "https://hblock.molinero.dev/hosts_adblock.txt",
       "type": "adblock"
     }
   ],
