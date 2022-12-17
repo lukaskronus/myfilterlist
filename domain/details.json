@@ -4,13 +4,13 @@
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/hostsvn.txt",
         "Base Output Filename": "hostsvn-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-15T02:21:55.679Z",
+            "Last Modified": "2022-12-16T01:35:08.069Z",
             "Title": "HostsVN Compiled"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                41993
+                42883
             ],
             [
                 "Comment Lines",
@@ -34,26 +34,26 @@
             ],
             [
                 "Domain-only Rules Output",
-                41981
+                42871
             ]
         ],
         "Output Formats": {
             "Just Domains": "hostsvn-justdomains.txt"
         },
-        "Domains Output": 41981
+        "Domains Output": 42871
     },
     {
         "Title": "Lite list",
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/lite.txt",
         "Base Output Filename": "lite-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-15T02:22:07.589Z",
+            "Last Modified": "2022-12-16T01:35:19.137Z",
             "Title": "Lite list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                154236
+                154332
             ],
             [
                 "Comment Lines",
@@ -77,26 +77,26 @@
             ],
             [
                 "Domain-only Rules Output",
-                151130
+                151226
             ]
         ],
         "Output Formats": {
             "Just Domains": "lite-justdomains.txt"
         },
-        "Domains Output": 151130
+        "Domains Output": 151226
     },
     {
         "Title": "Full list",
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/filter.txt",
         "Base Output Filename": "filter-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-15T02:22:38.942Z",
+            "Last Modified": "2022-12-16T01:35:48.412Z",
             "Title": "Full list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                423968
+                426934
             ],
             [
                 "Comment Lines",
@@ -120,20 +120,20 @@
             ],
             [
                 "Domain-only Rules Output",
-                420829
+                423795
             ]
         ],
         "Output Formats": {
             "Just Domains": "filter-justdomains.txt"
         },
-        "Domains Output": 420829
+        "Domains Output": 423795
     },
     {
         "Title": "Extra list",
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/extra.txt",
         "Base Output Filename": "extra-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-15T02:23:05.607Z",
+            "Last Modified": "2022-12-16T01:36:12.985Z",
             "Title": "Extra list"
         },
         "Conversion": [
@@ -176,13 +176,13 @@
         "Source": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/cf.txt",
         "Base Output Filename": "cloudflare-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2022-12-15T02:22:41.972Z",
+            "Last Modified": "2022-12-16T01:35:51.455Z",
             "Title": "Cloudflare"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                137595
+                138123
             ],
             [
                 "Comment Lines",
@@ -206,12 +206,12 @@
             ],
             [
                 "Domain-only Rules Output",
-                136866
+                137394
             ]
         ],
         "Output Formats": {
             "Just Domains": "cloudflare-justdomains.txt"
         },
-        "Domains Output": 136866
+        "Domains Output": 137394
     }
 ]
