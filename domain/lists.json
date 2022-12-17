@@ -1,27 +1,27 @@
 [
 	{
 		"name": "HostsVN",
-		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/hostsvn.txt",
+		"url": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/hostsvn.txt",
 		"format": "adbp"
 	},
 	{
 		"name": "Lite list",
-		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/lite.txt",
+		"url": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/lite.txt",
 		"format": "adbp"
 	},
 	{
 		"name": "Full list",
-		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/filter.txt",
+		"url": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/filter.txt",
 		"format": "adbp"
 	},
 	{
 		"name": "Extra list",
-		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/extra.txt",
+		"url": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/extra.txt",
 		"format": "adbp"
 	},
 	{
 		"name": "Cloudflare Zero Trust",
-		"url": "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/adblock/cf.txt",
+		"url": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/cf.txt",
 		"format": "adbp",
 		"outputfile": "cloudflare.txt"
 	}
