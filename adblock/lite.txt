@@ -1,6 +1,6 @@
 !
 ! Title: Lite list
-! Last modified: 2022-12-17T23:23:53.178Z
+! Last modified: 2022-12-18T01:37:09.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -89860,8 +89860,6 @@
 ||prebid.datablocks.net^
 ||ad.divreach.com^
 ||demo.reviveadservermod.com^
-||buyer.dspx.tv^
-||dcbuyer.dspx.tv^
 ||deep.edgequery.io^
 ||content.mql5.com^
 ||rtb.gamoshi.io^
@@ -138800,6 +138798,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cloudwp.io^
 ||clrt.ai^
 ||cntxtfl.com^
+||confiant-integrations.net^
 ||convead.io^
 ||cvlb.dev^
 ||cybba.solutions^
@@ -138810,6 +138809,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dlxpix.net^
 ||dm-event.net^
 ||dratingmaject.com^
+||dspx.tv^
 ||e1e.io^
 ||efreecode.com^
 ||egoi.site^
@@ -147463,6 +147463,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||dwqfmvc.cn^
+||gfqquls.cn^
+||cpgo.xyz^
+||gkiho.xyz^
+||imoote.xyz^
+||czdffsa.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
