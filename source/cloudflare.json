@@ -25,11 +25,6 @@
       "name": "1Hosts Pro",
       "source": "https://o0.pages.dev/Pro/adblock.txt",
       "type": "adblock"
-    },
-    {
-      "name": "hBlock",
-      "source": "https://hblock.molinero.dev/hosts_adblock.txt",
-      "type": "adblock"
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"]
