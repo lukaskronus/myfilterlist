@@ -22,8 +22,8 @@
       "type": "hosts"
     },
     {
-      "name": "1Hosts Pro",
-      "source": "https://o0.pages.dev/Pro/adblock.txt",
+      "name": "OISD",
+      "source": "https://abp.oisd.nl/",
       "type": "adblock"
     }
   ],
