@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2022-12-25T01:41:16.067Z
+! Last modified: 2022-12-26T01:37:27.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2485,6 +2485,7 @@
 ||elogs.vnexpress.net^
 ||logperf.vnexpress.net^
 ||tracking-amp.vnexpress.net^
+||fly-ads.net^
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -28368,6 +28369,7 @@
 ||8day.bet^
 ||8day.com^
 ||8day.online^
+||8day66.com^
 ||8dayclub.com^
 ||8daygo.com^
 ||8dayvn888.com^
@@ -33660,6 +33662,7 @@
 ||i9bet30.com^
 ||i9bet31.com^
 ||i9bet333.com^
+||i9bet35.com^
 ||i9bet4.com^
 ||i9bet444.com^
 ||i9bet5.com^
@@ -43149,6 +43152,7 @@
 ||cloud27.xyz^
 ||cltx.in^
 ||cltx19.me^
+||cltx88.com^
 ||cltx888.me^
 ||clubfiletyc.com^
 ||code-garena-vn.com^
@@ -43549,10 +43553,12 @@
 ||thutucnhantienquydoi24h.weebly.com^
 ||ticlewesimulate.cfd^
 ||tiki136.com^
+||tiki2022.vn^
 ||tikictv9.com^
 ||tikivip.club^
 ||tikivip0001.com^
 ||titki55.cc^
+||tk668.com^
 ||tpbank.vn-vpb.top^
 ||tpbank84.com^
 ||tpbankvnvn.com^
