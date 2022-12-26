@@ -22,9 +22,14 @@
       "type": "hosts"
     },
     {
-      "name": "OISD",
-      "source": "https://abp.oisd.nl/",
-      "type": "adblock"
+      "name": "hBlock",
+      "source": "https://hblock.molinero.dev/hosts",
+      "type": "hosts"
+    },
+    {
+      "name": "1Hosts Lite",
+      "source": "https://o0.pages.dev/Lite/hosts.txt",
+      "type": "hosts"
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"]
