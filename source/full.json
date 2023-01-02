@@ -12,13 +12,8 @@
       "type": "adblock"
     },
     {
-      "name": "OISD",
-      "source": "https://abp.oisd.nl/",
-      "type": "adblock"
-    },
-    {
-      "name": "1Hosts Pro",
-      "source": "https://badmojr.gitlab.io/1hosts/Pro/hosts.txt",
+      "name": "1Hosts Lite",
+      "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
       "type": "hosts"
     },
     {
