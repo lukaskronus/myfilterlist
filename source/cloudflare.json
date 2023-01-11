@@ -27,11 +27,6 @@
       "type": "hosts"
     },
     {
-      "name": "hBlock",
-      "source": "https://hblock.molinero.dev/hosts",
-      "type": "hosts"
-    },
-    {
       "name": "1Hosts Lite",
       "source": "https://o0.pages.dev/Lite/hosts.txt",
       "type": "hosts"
