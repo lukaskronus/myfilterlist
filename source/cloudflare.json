@@ -17,20 +17,26 @@
       "type": "hosts"
     },
     {
-      "name": "Adguard DNS Filter",
-      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "name": "hagezi light",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
       "type": "adblock"
     },
     {
-      "name": "StevenBlack",
-      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
+      "name": "hagezi fake",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt",
       "type": "hosts"
     },
     {
-      "name": "1Hosts Lite",
-      "source": "https://o0.pages.dev/Lite/hosts.txt",
+      "name": "hagezi bad hoster",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/hoster.txt",
+      "type": "hosts"
+    },
+    {
+      "name": "hagezi personal",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/personal.txt",
       "type": "hosts"
     }
   ],
-  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"]
+  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],
+  "exclusions_sources": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt"]
 }

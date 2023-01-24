@@ -12,8 +12,18 @@
       "type": "adblock"
     },
     {
-      "name": "1Hosts Lite",
-      "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
+      "name": "hagezi fake",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt",
+      "type": "hosts"
+    },
+    {
+      "name": "hagezi bad hoster",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/hoster.txt",
+      "type": "hosts"
+    },
+    {
+      "name": "hagezi personal",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/personal.txt",
       "type": "hosts"
     },
     {
@@ -22,5 +32,6 @@
       "type": "adblock"
     }
   ],
-  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"]
+  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],
+  "exclusions_sources": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt","https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt"]
 }
