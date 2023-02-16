@@ -4,7 +4,7 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/hostsvn.txt",
         "Base Output Filename": "hostsvn-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2023-02-15T01:47:25.130Z",
+            "Last Modified": "2023-02-16T01:46:26.611Z",
             "Title": "HostsVN Compiled"
         },
         "Conversion": [
@@ -47,13 +47,13 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/lite.txt",
         "Base Output Filename": "lite-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2023-02-15T01:49:42.768Z",
+            "Last Modified": "2023-02-16T01:48:44.390Z",
             "Title": "Lite list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                581862
+                582334
             ],
             [
                 "Comment Lines",
@@ -65,50 +65,7 @@
             ],
             [
                 "Non-Domain-only Rules Excluded",
-                3175
-            ],
-            [
-                "Domain-only Rules Excluded (unsupported options)",
-                2
-            ],
-            [
-                "Domain-only Rules Excluded (exception conflict)",
-                43
-            ],
-            [
-                "Domain-only Rules Output",
-                578636
-            ]
-        ],
-        "Output Formats": {
-            "Just Domains": "lite-justdomains.txt"
-        },
-        "Domains Output": 578636
-    },
-    {
-        "Title": "Full list",
-        "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/filter.txt",
-        "Base Output Filename": "filter-{FORMAT}.txt",
-        "Header": {
-            "Last Modified": "2023-02-15T01:51:32.512Z",
-            "Title": "Full list"
-        },
-        "Conversion": [
-            [
-                "Total Lines Processed",
-                619167
-            ],
-            [
-                "Comment Lines",
-                6
-            ],
-            [
-                "Empty Lines",
-                2613
-            ],
-            [
-                "Non-Domain-only Rules Excluded",
-                3182
+                3176
             ],
             [
                 "Domain-only Rules Excluded (unsupported options)",
@@ -120,26 +77,69 @@
             ],
             [
                 "Domain-only Rules Output",
-                615933
+                579106
+            ]
+        ],
+        "Output Formats": {
+            "Just Domains": "lite-justdomains.txt"
+        },
+        "Domains Output": 579106
+    },
+    {
+        "Title": "Full list",
+        "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/filter.txt",
+        "Base Output Filename": "filter-{FORMAT}.txt",
+        "Header": {
+            "Last Modified": "2023-02-16T01:50:37.882Z",
+            "Title": "Full list"
+        },
+        "Conversion": [
+            [
+                "Total Lines Processed",
+                620697
+            ],
+            [
+                "Comment Lines",
+                6
+            ],
+            [
+                "Empty Lines",
+                2613
+            ],
+            [
+                "Non-Domain-only Rules Excluded",
+                3183
+            ],
+            [
+                "Domain-only Rules Excluded (unsupported options)",
+                2
+            ],
+            [
+                "Domain-only Rules Excluded (exception conflict)",
+                45
+            ],
+            [
+                "Domain-only Rules Output",
+                617461
             ]
         ],
         "Output Formats": {
             "Just Domains": "filter-justdomains.txt"
         },
-        "Domains Output": 615933
+        "Domains Output": 617461
     },
     {
         "Title": "Extra list",
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/extra.txt",
         "Base Output Filename": "extra-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2023-02-15T01:53:18.574Z",
+            "Last Modified": "2023-02-16T01:52:23.552Z",
             "Title": "Extra list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                549626
+                549241
             ],
             [
                 "Comment Lines",
@@ -147,11 +147,11 @@
             ],
             [
                 "Empty Lines",
-                134
+                137
             ],
             [
                 "Non-Domain-only Rules Excluded",
-                435
+                438
             ],
             [
                 "Domain-only Rules Excluded (unsupported options)",
@@ -163,26 +163,26 @@
             ],
             [
                 "Domain-only Rules Output",
-                549185
+                548797
             ]
         ],
         "Output Formats": {
             "Just Domains": "extra-justdomains.txt"
         },
-        "Domains Output": 549185
+        "Domains Output": 548797
     },
     {
         "Title": "Cloudflare Zero Trust",
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/cf.txt",
         "Base Output Filename": "cloudflare-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2023-02-15T01:51:55.831Z",
+            "Last Modified": "2023-02-16T01:51:01.827Z",
             "Title": "Cloudflare"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                206538
+                185842
             ],
             [
                 "Comment Lines",
@@ -206,12 +206,12 @@
             ],
             [
                 "Domain-only Rules Output",
-                206522
+                185826
             ]
         ],
         "Output Formats": {
             "Just Domains": "cloudflare-justdomains.txt"
         },
-        "Domains Output": 206522
+        "Domains Output": 185826
     }
 ]
