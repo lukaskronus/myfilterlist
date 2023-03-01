@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-02-28T01:46:16.661Z
+! Last modified: 2023-03-01T01:56:17.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1858,7 +1858,6 @@
 ||samsungacr.com^
 ||samsungadhub.com^
 ||samsungtvads.com^
-||insights.samsung.com^
 ||nmetrics.samsung.com^
 ||smetrics.samsung.com^
 ||target-us.samsung.com^
@@ -2182,6 +2181,9 @@
 ||ads.livetv625.me^
 ||ads.livetv626.me^
 ||company-target.com^
+||antillephone.com^
+||intake-analytics.wikimedia.org^
+||intake-logging.wikimedia.org^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2307,6 +2309,7 @@
 ||log-tinnhanhchungkhoan.zadn.vn^
 ||log-vietnamdaily.zadn.vn^
 ||log-vovworld.zadn.vn^
+||ads.zascdn.me^
 ||adtima-common.zascdn.me^
 ||adtima-media.zascdn.me^
 ||adtima-static.zascdn.me^
@@ -2316,6 +2319,7 @@
 ||log.sdk.zadn.vn^
 ||240.zaloapp.ads.zdn.vn^
 ||480.zaloapp.ads.zdn.vn^
+||adtima-static.aka.zdn.vn^
 ||stc-support-app-brand.zdn.vn^
 ||zaloads-480.zdn.vn^
 ||zplayer-trk.zdn.vn^
@@ -3123,6 +3127,7 @@
 ||1frozenthrone1.com^
 ||1phads.com^
 ||207.net^
+||228tuchuang.com^
 ||247media.com^
 ||24log.com^
 ||24log.de^
@@ -3139,6 +3144,7 @@
 ||4mads.com^
 ||4wnet.com^
 ||520click.com^
+||587tuchuang.com^
 ||5advertise.com^
 ||5toft8or7on8tt.com^
 ||79xmz3lmss.com^
@@ -4512,6 +4518,7 @@
 ||buzzonclick.com^
 ||bvalphaserver.com^
 ||bvmcdn.net^
+||bvzkkjqeuijpy.com^
 ||bwgavnars.com^
 ||bwp.download.com^
 ||bypassprofessordemonstrate.com^
@@ -4575,6 +4582,7 @@
 ||cbmall.com^
 ||cbx.net^
 ||cccpmo.com^
+||ccjzuavqrh.com^
 ||ccmcroads.com^
 ||cd-ads.com^
 ||cdilwuhbgy.com^
@@ -5154,6 +5162,7 @@
 ||emxdigital.com^
 ||enamberchivies.com^
 ||encodehelped.com^
+||encounterboastful.com^
 ||encouragingwilderness.com^
 ||endurableshop.com^
 ||engagebdr.com^
@@ -5668,6 +5677,7 @@
 ||igwlfwsogwetw.com^
 ||ihhqwaurke.com^
 ||iifvcfwiqi.com^
+||ikahnruntx.com^
 ||ilbanner.com^
 ||ilead.itrack.it^
 ||illegal-respond.pro^
@@ -5912,6 +5922,8 @@
 ||kukury2hf8nd09.com^
 ||kupona.de^
 ||kurlichan.com^
+||kvkaa.com^
+||kvtaaa.top^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kxnggkh2nj.com^
 ||kybsbwuej.com^
@@ -5952,6 +5964,7 @@
 ||leonodikeu9sj10.com^
 ||lettucelimit.com^
 ||lfstmedia.com^
+||lgkdnlienpynmn.com^
 ||liaisondegreedaughters.com^
 ||libedgolart.com^
 ||liftdna.com^
@@ -6685,6 +6698,7 @@
 ||plugrush.com^
 ||plumbummoca.com^
 ||plutothejewel.com^
+||pnuhondppw.com^
 ||pocitadlo.cz^
 ||pocrd.cc^
 ||podsklzegshmnd.com^
@@ -6854,6 +6868,7 @@
 ||qlcdnvkgi.com^
 ||qnsr.com^
 ||qohxtklfmy.com^
+||qp.ezfxpuo.cn^
 ||qstukqmsddqgs.com^
 ||qthiqwum.com^
 ||qtspkqzn.com^
@@ -8400,7 +8415,6 @@
 ||incoming-telemetry.thunderbird.net^
 ||incoming.telemetry.mozilla.org^
 ||inside-graph.com^
-||intake-analytics.wikimedia.org^
 ||invitejs.trustpilot.com^
 ||invoca.net^
 ||iovation.com^
@@ -8425,6 +8439,7 @@
 ||lngtd.com^
 ||log-eap-sg.coloros.com^
 ||log-upload-eur.mihoyo.com^
+||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log.ajunews.com^
