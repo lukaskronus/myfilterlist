@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-03-08T01:51:17.518Z
+! Last modified: 2023-03-09T01:51:24.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -374,7 +374,6 @@
 ||analytics.cloud.unity3d.com^
 ||api.uca.cloud.unity3d.com^
 ||cdp.cloud.unity3d.com^
-||config.uca.cloud.unity3d.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||perf-events.cloud.unity3d.com^
 ||userreporting.cloud.unity3d.com^
@@ -1323,9 +1322,6 @@
 ||ads5-eu.truecaller.com^
 ||ads5-noneu.truecaller.com^
 ||ads5.truecaller.com^
-||batchlogging4-eu.truecaller.com^
-||batchlogging4-noneu.truecaller.com^
-||batchlogging4.truecaller.com^
 ||pushid-noneu.truecaller.com^
 ||appboycdn.com^
 ||leadforensics.com^
@@ -2181,6 +2177,8 @@
 ||ads.livetv625.me^
 ||ads.livetv626.me^
 ||ads.livetv630.me^
+||ads.livetv632.me^
+||ads.livetv633.me^
 ||company-target.com^
 ||antillephone.com^
 ||intake-analytics.wikimedia.org^
@@ -2190,6 +2188,7 @@
 ||ali-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
 ||tx-ad.a.yximgs.com^
+||eacdn.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -3010,6 +3009,7 @@
 ||mto.cgv.vn^
 ||nct1.logging.nextsmarty.com^
 ||newlog.daidoanket.vn^
+||newlog.tapchitaichinh.vn^
 ||nstat.headlines.pw^
 ||pixel.chotot.com^
 ||production-tracking.riviu.co^
@@ -3177,6 +3177,7 @@
 ||abc-ads.com^
 ||aboardlevel.com^
 ||above.com^
+||aboveredirect.top^
 ||abroad-ad.kingsoft-office-service.com^
 ||abruptroad.com^
 ||absentstream.com^
@@ -3184,6 +3185,7 @@
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||absurdwater.com^
+||abyocawlfe.com^
 ||abz.com^
 ||ac.rnm.ca^
 ||acacdn.com^
@@ -4058,6 +4060,7 @@
 ||alstrome9riya10.com^
 ||alternativecpmgate.com^
 ||altronopubacc.com^
+||alxkpafhaka.com^
 ||amazingcounters.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
@@ -4068,6 +4071,7 @@
 ||amobee.com^
 ||amsuclmqo.com^
 ||amucksballone.com^
+||amusingsnow.pro^
 ||an.acxapi.net^
 ||an.clhcdn.net^
 ||an.cliphub.io^
@@ -4222,6 +4226,7 @@
 ||axiabanners.exodus.gr^
 ||axillovely.com^
 ||axiomaticalley.com^
+||axkwmsivme.com^
 ||ay.delivery^
 ||aylarl.com^
 ||ayrtpmwuymzbbq.com^
@@ -5092,7 +5097,6 @@
 ||e5asyhilodice.com^
 ||e67repidwnfu7gcha.com^
 ||eabids.com^
-||eacdn.com^
 ||eadexchange.com^
 ||earnbigo.com^
 ||earnify.com^
@@ -5568,6 +5572,7 @@
 ||hgads.com^
 ||hgub2polye.com^
 ||hh-btr.com^
+||hhbypdoecp.com^
 ||hidden.gogoceleb.com^
 ||hidelen.com^
 ||highcpmrevenuenetwork.com^
@@ -5627,6 +5632,7 @@
 ||howtubray.com^
 ||hpijkah.com^
 ||hppvkbfcuq.com^
+||hqtfjugceattb.com^
 ||hrgyhgxcbvwxs.com^
 ||httpool.com^
 ||hubzozo.com^
@@ -6462,6 +6468,7 @@
 ||ofhappinyer.com^
 ||ofnumeltor.com^
 ||ofsyuxaveckulgf.com^
+||oghqvffmnt.com^
 ||ohtctjiuow.com^
 ||oixohmve.com^
 ||ojjzpitr.com^
@@ -6680,6 +6687,7 @@
 ||pilgrimarduouscorruption.com^
 ||pillsofecho.com^
 ||pimproll.com^
+||pingpepa.xyz^
 ||pippio.com^
 ||piquantpigs.com^
 ||pisism.com^
@@ -8027,11 +8035,13 @@
 ||xgzyfpmfkxa.com^
 ||xiti.com^
 ||xius.com^
+||xjrwxfdphc.com^
 ||xkesalwueyz.com^
 ||xlviiirdr.com^
 ||xlwaluyw.com^
 ||xmkmuadkefzav.com^
 ||xmvftaoz.com^
+||xnfmbejucgoldi.com^
 ||xovq5nemr.com^
 ||xpbbyiqbcawamy.com^
 ||xpblitgpg.com^
@@ -8189,6 +8199,7 @@
 ||analytics.cdn.live^
 ||analytics.clickdimensions.com^
 ||analytics.cloudron.io^
+||analytics.convertlanguage.com^
 ||analytics.gavelz.com^
 ||analytics.getshogun.com^
 ||analytics.gismart.xyz^
@@ -119983,6 +119994,7 @@
 ||butvelocities.cfd^
 ||buyboxershort3contactshop.click^
 ||bvietcombank.com^
+||bxrtxfr.xyz^
 ||byasdebrisfie.cfd^
 ||campxanh.info^
 ||canvayvon.net^
@@ -120488,6 +120500,7 @@
 ||hdbankfinance.world^
 ||hdbankfinance.xyz^
 ||hdbanks.com^
+||hdcreditvnn.com^
 ||hdsaisonvn.com^
 ||heirreplacem.cfd^
 ||helandsca.cfd^
@@ -120633,6 +120646,7 @@
 ||ivvietcombank.com^
 ||iyogo.shop^
 ||jaccsc.com^
+||jaccscom.com^
 ||jaccsn.com^
 ||jaccsvn.com^
 ||jaccsz.com^
@@ -122081,6 +122095,7 @@
 ||sieuthibaby24h.com^
 ||sieuthidark.com^
 ||sieuthidienmayxanh.com^
+||sieuthidienmayxanh247.com^
 ||sieuthidienmayxanh24h.com^
 ||sieuthidienthoaiso.com^
 ||sieuthimion.com^
@@ -122675,10 +122690,12 @@
 ||vaynhanhpro.vn^
 ||vaynhanhshinhanbank.vn^
 ||vaynhanhtienmat.com^
+||vaynhanhvn.net^
 ||vaynong123.online^
 ||vayonline365.biz^
 ||vayonlinesacombank.com^
 ||vayqualuong.com^
+||vayqualuongshinhan.com^
 ||vayshinhan.top^
 ||vayshinhanbanks.com^
 ||vaysieutoc.info^
