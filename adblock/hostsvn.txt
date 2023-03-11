@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-03-10T01:51:33.646Z
+! Last modified: 2023-03-11T01:35:06.856Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -370,16 +370,13 @@
 ||operate-sdk-telemetry.unity3d.com^
 ||stats.unity3d.com^
 ||analytics.unity3d.com^
-||analytics.uca.cloud.unity3d.com^
 ||analytics.cloud.unity3d.com^
-||api.uca.cloud.unity3d.com^
 ||cdp.cloud.unity3d.com^
-||data-optout-service.uca.cloud.unity3d.com^
 ||perf-events.cloud.unity3d.com^
 ||userreporting.cloud.unity3d.com^
+||analytics.uca.cloud.unity3d.com^
+||data-optout-service.uca.cloud.unity3d.com^
 ||unityads.unity3d.com^
-||prd-lender.cdp.internal.unity3d.com^
-||stg-lender.cdp.internal.unity3d.com^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
 ||sdk-diagnostics.prd.mz.internal.unity3d.com^
@@ -2189,6 +2186,9 @@
 ||js-ad.a.yximgs.com^
 ||tx-ad.a.yximgs.com^
 ||eacdn.com^
+||adforcast.com^
+||xmlrtb.com^
+||appodeal.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -3192,6 +3192,7 @@
 ||acdcdn.com^
 ||acduyqwnz.com^
 ||acento.com^
+||acertb.com^
 ||achcdn.com^
 ||achieverknee.com^
 ||acidpigs.com^
@@ -3375,7 +3376,6 @@
 ||adfactor.nl^
 ||adflight.com^
 ||adfonic.net^
-||adforcast.com^
 ||adforce.com^
 ||adform.com^
 ||adformdsp.net^
@@ -4149,6 +4149,7 @@
 ||aromamirror.com^
 ||arsdev.net^
 ||arsenal54.xyz^
+||arsnivyr.com^
 ||arswabluchan.com^
 ||artpever.com^
 ||as.sexad.net^
@@ -5043,6 +5044,7 @@
 ||docksalmon.com^
 ||doerscharre.com^
 ||dogconcurrencesauce.com^
+||doigtepyramid.com^
 ||dolesminced.com^
 ||dollsdeclare.com^
 ||domaining.in^
@@ -5537,6 +5539,7 @@
 ||hadesleta.com^
 ||hairdosslitter.casa^
 ||hammerhearing.com^
+||handkerchiefpersonnel.com^
 ||handlingfaster.com^
 ||handyfield.com^
 ||hardtofindmilk.com^
@@ -6725,6 +6728,7 @@
 ||pop-under.ru^
 ||pop.bid^
 ||pop5sjhspear.com^
+||popmonetizer.net^
 ||popmyads.com^
 ||popruexo.com^
 ||popsoffer.com^
@@ -6882,6 +6886,7 @@
 ||qgicqtyh.com^
 ||qgxbluhsgad.com^
 ||qlcdnvkgi.com^
+||qmxgkgykaex.com^
 ||qnsr.com^
 ||qohxtklfmy.com^
 ||qp.ezfxpuo.cn^
@@ -8147,6 +8152,7 @@
 ||ziffdavis.com^
 ||zijaipse.com^
 ||zikroarg.com^
+||zimpolo.com^
 ||zintext.com^
 ||zlbdvgjlxm.com^
 ||zlp6s.pw^
@@ -8615,6 +8621,7 @@
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||seal.qualys.com^
+||segment-cdn.producthunt.com^
 ||selfishsnake.com^
 ||semantiqo.com^
 ||sessions.bugsnag.com^
