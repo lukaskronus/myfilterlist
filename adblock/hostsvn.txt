@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-03-20T01:42:14.192Z
+! Last modified: 2023-03-21T01:27:36.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -2780,7 +2780,6 @@
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
 ||delivery.senvangvn.com^
-||deltago.com^
 ||demopage.me^
 ||deqik.com^
 ||dt.vnecdn.com^
