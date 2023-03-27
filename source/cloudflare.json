@@ -12,6 +12,11 @@
       "type": "hosts"
     },
     {
+      "name": "StevenBlack",
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "type": "hosts
+    },
+    {
       "name":" tiuxo",
       "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
       "type": "hosts"
@@ -24,11 +29,6 @@
     {
       "name": "hagezi fake",
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt",
-      "type": "hosts"
-    },
-    {
-      "name": "hagezi bad hoster",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/hoster.txt",
       "type": "hosts"
     },
     {
