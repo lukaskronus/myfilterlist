@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-04-05T01:13:47.065Z
+! Last modified: 2023-04-06T02:49:34.999Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1470,6 +1470,7 @@
 ||rabbit.tg.meitu.com^
 ||mfadsrvr.com^
 ||liftoff.io^
+||liftoff-creatives.io^
 ||impactserving.com^
 ||mellowads.com^
 ||adxplay.com^
@@ -2087,8 +2088,10 @@
 ||promo-4.vercel.app^
 ||wiztube.xyz^
 ||analytics.ff.avast.com^
+||analytics-prod-gcp.ff.avast.com^
 ||ip-info.ff.avast.com^
 ||ipm-provider.ff.avast.com^
+||stats.avast.com^
 ||explorads.com^
 ||yovoads.com^
 ||connect.idocdn.com^
@@ -2185,6 +2188,8 @@
 ||ads.livetv638.me^
 ||ads.livetv639.me^
 ||ads.livetv640.me^
+||ads.livetv643.me^
+||ads.livetv644.me^
 ||company-target.com^
 ||antillephone.com^
 ||intake-analytics.wikimedia.org^
@@ -2205,6 +2210,8 @@
 ||cdn.popupsmart.com^
 ||popup.popupsmart.com^
 ||gotrackier.com^
+||dmpxs.com^
+||confiant-integrations.net^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2314,7 +2321,10 @@
 ||zalo-ads-480.zadn.vn^
 ||zalo-ads-td.zadn.vn^
 ||zalo-ads.zadn.vn^
+||zpsocial-f50-org.zadn.vn^
+||zpsocial-f51-org.zadn.vn^
 ||zpsocial-f52-org.zadn.vn^
+||zpsocial-f53-org.zadn.vn^
 ||log-anninhthudo.zadn.vn^
 ||log-baobackan.zadn.vn^
 ||log-baonghean.zadn.vn^
@@ -2638,6 +2648,7 @@
 ||m.zedcdn.me^
 ||me.zedcdn.me^
 ||mme.zedcdn.me^
+||aanetwork.vn^
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -3112,6 +3123,7 @@
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
+||traffic.vietnhan.co^
 ||trk.123c.vn^
 ||trk.staging.123c.vn^
 ||userstats.shopee.vn^
@@ -5349,6 +5361,7 @@
 ||feed-xml.com^
 ||feedbackresearch.com^
 ||feedjit.com^
+||feedyourheadmag.com^
 ||felonlosel.com^
 ||fer2oxheou4nd.com^
 ||ferulaecharger.com^
@@ -5722,6 +5735,7 @@
 ||hybrid.ai^
 ||hydra.alibaba.com^
 ||hydramedia.com^
+||hylicfrothi.uno^
 ||hynteroforion.com^
 ||hyperbanner.net^
 ||hypermusk.com^
@@ -8683,7 +8697,6 @@
 ||pixiedust.buzzfeed.com^
 ||pjhku.com^
 ||platform.iteratehq.com^
-||plausible.io^
 ||playtomic.com^
 ||poole-collector-prod.n3twork.com^
 ||popupmaker.com^
@@ -32641,6 +32654,7 @@
 
 ||000000tyc.com^
 ||00001111hlcp1111.com^
+||0000130.com^
 ||00001bet.com^
 ||00002222hlcp2222.com^
 ||0000222hlcp222.com^
@@ -33012,6 +33026,7 @@
 ||006489.com^
 ||0064n.com^
 ||0065x.com^
+||0066130.com^
 ||0066608.com^
 ||00666hlcp66.com^
 ||00666hlcp666.com^
@@ -33062,6 +33077,7 @@
 ||0074t.com^
 ||0074v.com^
 ||007713.com^
+||0077130.com^
 ||0077678.com^
 ||0077696.com^
 ||0077gf.com^
@@ -36929,6 +36945,7 @@
 ||1165ky.com^
 ||1165qqq.com^
 ||1165tyc.com^
+||1166130.com^
 ||11661998.com^
 ||11661o.com^
 ||11661r.com^
@@ -38313,6 +38330,7 @@
 ||1308ky.com^
 ||130900.com^
 ||1309ky.com^
+||130casino.com^
 ||130dfr.vip^
 ||130kb.com^
 ||130ks.com^
@@ -112132,6 +112150,7 @@
 ||vip1252.com^
 ||vip1259.com^
 ||vip1263.com^
+||vip130130.com^
 ||vip142.com^
 ||vip143.com^
 ||vip14902.com^
@@ -119955,6 +119974,7 @@
 ||555shopify.com^
 ||55lotte.com^
 ||588589.com^
+||5giay.cc^
 ||5namlienquan-giftcode.com^
 ||666lotte.com^
 ||6699uu.com^
@@ -120023,6 +120043,7 @@
 ||ahoravideo-schnellvpn.xyz^
 ||ahthegha.cfd^
 ||alibabavip.xyz^
+||alibabavn.shop^
 ||alibabavnn.com^
 ||alicshop.com^
 ||aliexshop.life^
@@ -120035,6 +120056,7 @@
 ||almofmultiple.cfd^
 ||alovay24h.com^
 ||amazon.amazonptj.com^
+||amazonxk.com^
 ||amnsreiuojy.ru^
 ||anbinh-finance.club^
 ||anceovarec.cfd^
@@ -120229,6 +120251,7 @@
 ||congnghevietmy.com.vn^
 ||congtacvienonline.vn^
 ||congthongtinvidientu.com^
+||congtykiman.org^
 ||congtytaichinhlotte.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
@@ -120397,6 +120420,7 @@
 ||fairu-schnellvpn.com^
 ||fairu-schnellvpn.xyz^
 ||fbviet88.com^
+||fcccredit.com^
 ||fccomvn.com^
 ||fd2.hmexchangecentre.com^
 ||fe-shop.cc^
@@ -120621,6 +120645,7 @@
 ||h5.tocdovn.com^
 ||h5.tocdovnm.com^
 ||h51.carpcredits.com^
+||hackgamemienphi.com^
 ||hacktaikhoan.com^
 ||hacktaikhoanfacebook.com^
 ||haitacshopgame.com^
@@ -121002,6 +121027,7 @@
 ||llzd2.com^
 ||lmht-membership.com^
 ||lmoney01.com^
+||lo.dama582.com^
 ||loanmoney-th.com^
 ||locabank.vn^
 ||locmomo.com^
@@ -121054,6 +121080,7 @@
 ||mbbankl.com^
 ||mbbankn.com^
 ||mbtk-bank.com^
+||mcredit.vaynhanh-bankcredits.com^
 ||meetamate.site^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
@@ -121096,6 +121123,7 @@
 ||mhshopee.com^
 ||micronsofte-online.com^
 ||miner-linkperfectmoney.com^
+||minhchinhmega.com^
 ||minhngocc789.com^
 ||miniast.com^
 ||minigamemomo.net^
@@ -121595,6 +121623,7 @@
 ||phanqua7979.com^
 ||phanquavn152.com^
 ||phatqualienminh2015.weebly.com^
+||phattai6666.com^
 ||phattaimomo.com^
 ||phemex.shop^
 ||phieudangky-quetthetindungvn.com^
@@ -121750,6 +121779,7 @@
 ||rich678.com^
 ||rickmomo.fun^
 ||rihcos.com^
+||rik11.fun^
 ||rikmomo.co^
 ||rikmomo.me^
 ||riobank.asia^
@@ -121989,6 +122019,7 @@
 ||shopeekingden.com^
 ||shopeekx.com^
 ||shopeekx.top^
+||shopeemallvn.com^
 ||shopeemission.com^
 ||shopeemy.net^
 ||shopeenhimvcahng.net^
@@ -122814,6 +122845,7 @@
 ||vaylien88.com^
 ||vaylientay79.com^
 ||vaymb.org^
+||vaymbbank.com^
 ||vaynewtech.online^
 ||vaynganhang-techcombank.xyz^
 ||vaynganhang.net^
@@ -122983,6 +123015,7 @@
 ||vidientusp.vn^
 ||vidientutrangtructuyen247.com^
 ||vidientuvietnam247.com^
+||vie-tcapital.com^
 ||vieatbank.com^
 ||vieclam12.com^
 ||vieclam66.com^
@@ -123141,6 +123174,7 @@
 ||vimomo.monster^
 ||vimomo.vip^
 ||vinacombank.com^
+||vincomonevip.net^
 ||vingroup.shop^
 ||vingroupventures.shop^
 ||vip-dien-mayxanh.com^
@@ -123173,8 +123207,10 @@
 ||vn-cn.life^
 ||vn-cn.xyz^
 ||vn-cr.life^
+||vn-cvs.xyz^
 ||vn-dangky.shop^
 ||vn-dienmayxanh.com^
+||vn-dll.vip^
 ||vn-ebank.xyz^
 ||vn-ebanking.info^
 ||vn-ebanks.xyz^
@@ -123197,6 +123233,7 @@
 ||vn-llc.top^
 ||vn-mail.shop^
 ||vn-mall.shop^
+||vn-ms.top^
 ||vn-mybank.top^
 ||vn-nhanqua.click^
 ||vn-nhanqua.online^
