@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-04-19T01:34:24.349Z
+! Last modified: 2023-04-20T01:24:27.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -2442,8 +2442,6 @@
 ||static.subiz.com^
 ||widget.subiz.com^
 ||widgetv4.subiz.com^
-||api.sbz.vn^
-||widget.sbz.vn^
 ||api.subiz.net^
 ||widget.subiz.net^
 ||api.subiz.xyz^
