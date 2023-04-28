@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-04-27T01:34:27.540Z
+! Last modified: 2023-04-28T01:34:44.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -48,9 +48,10 @@
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
 ||ads.gmodules.com^
-||ads.google.com^
 ||ads.youtube.com^
+||ads.google.com^
 ||mail-ads.google.com^
+||analytics-alv.google.com^
 ||app-measurement.com^
 ||target.microsoft.com^
 ||oca.telemetry.microsoft.com^
@@ -1357,42 +1358,12 @@
 ||asdfix.com^
 ||creativesumo.com^
 ||convertful.com^
-||adx-id.ads.oppomobile.com^
-||adx.ads.oppomobile.com^
-||bdapi.ads.oppomobile.com^
-||bjdata.ads.oppomobile.com^
-||data-id.ads.oppomobile.com^
-||data.ads.oppomobile.com^
-||uapi.ads.oppomobile.com^
 ||adsfs.oppomobile.com^
-||adx-f.ads.heytapmobile.com^
-||adx-id.ads.heytapmobile.com^
-||adx-in.ads.heytapmobile.com^
-||adx-kh.ads.heytapmobile.com^
-||adx-mm.ads.heytapmobile.com^
-||adx-my.ads.heytapmobile.com^
-||adx-ph.ads.heytapmobile.com^
-||adx-sg.ads.heytapmobile.com^
-||adx-th.ads.heytapmobile.com^
-||adx-tw.ads.heytapmobile.com^
-||adx-vn.ads.heytapmobile.com^
-||bdapi-id.ads.heytapmobile.com^
-||bdapi-in.ads.heytapmobile.com^
-||cl-data-f.ads.heytapmobile.com^
-||cl-data-id.ads.heytapmobile.com^
-||cl-data-in.ads.heytapmobile.com^
-||cl-data-vn.ads.heytapmobile.com^
-||stg-data-f.ads.heytapmobile.com^
-||stg-data-id.ads.heytapmobile.com^
-||stg-data-in.ads.heytapmobile.com^
-||stg-data-kh.ads.heytapmobile.com^
-||stg-data-mm.ads.heytapmobile.com^
-||stg-data-my.ads.heytapmobile.com^
-||stg-data-ph.ads.heytapmobile.com^
-||stg-data-sg.ads.heytapmobile.com^
-||stg-data-th.ads.heytapmobile.com^
-||stg-data-tw.ads.heytapmobile.com^
-||stg-data-vn.ads.heytapmobile.com^
+||ads.oppomobile.com^
+||ads.heytapmobile.com^
+||ads.realmemobile.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||trackonomics.net^
 ||liadm.com^
 ||rkdms.com^
@@ -1659,6 +1630,7 @@
 ||logbak.hicloud.com^
 ||logservice-dra.platform.hicloud.com^
 ||logservice.hicloud.com^
+||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||metrics.data.hicloud.com^
 ||yourwebbars.com^
@@ -2292,7 +2264,6 @@
 ||page.widget.zalo.me^
 ||stats.lab.zalo.ai^
 ||centralized.zaloapp.com^
-||jp.zaloapp.com^
 ||px.dmp.zaloapp.com^
 ||px.za.zaloapp.com^
 ||stats.dev.zaloapp.com^
@@ -5443,6 +5414,7 @@
 ||friendshipmale.com^
 ||frightenedpotato.com^
 ||fryawlauk.com^
+||fscfbfrof.com^
 ||ftte.xyz^
 ||fuffscreigh.website^
 ||fumarinpest.com^
@@ -6699,6 +6671,7 @@
 ||oxydend2r5umarb8oreum.com^
 ||oygohusvggaurod.xyz^
 ||ozongees.com^
+||ozsoekwgy.com^
 ||p.tanx.com^
 ||p4r24.eu^
 ||padp5arja8dgsd9cha.com^
@@ -7252,6 +7225,7 @@
 ||s2d6.com^
 ||sabergood.com^
 ||sacralcabaa.com^
+||sadflannel.com^
 ||safebrowsdv.com^
 ||safestgatetocontent.com^
 ||sageanalyst.net^
@@ -8362,6 +8336,7 @@
 ||alpixtrack.com^
 ||analysis.polarisoffice.com^
 ||analytic.rollout.io^
+||analytics-api.samsunghealthcn.com^
 ||analytics-au.clickdimensions.com^
 ||analytics-ca.clickdimensions.com^
 ||analytics-eu.clickdimensions.com^
