@@ -22,15 +22,10 @@
             "type": "adblock"
         },
         {
-            "name": "Hagezi Pro",
-            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+            "name": "Hagezi Pro Plus",
+            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
             "type": "adblock"
-        },
-        {
-            "name": "hostsVN",
-            "source": "./adblock/hostsvn.txt",
-            "type": "adblock"
-          }
+        }
     ],
     "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],
     "exclusions_sources": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt","https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt"]
