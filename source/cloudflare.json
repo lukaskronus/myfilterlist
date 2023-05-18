@@ -22,8 +22,8 @@
       "type": "hosts"
     },
     {
-      "name": "hagezi light",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
+      "name": "AdGuard DNS Filter",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "type": "adblock"
     }
   ],
