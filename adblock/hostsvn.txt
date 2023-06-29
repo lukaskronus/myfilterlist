@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-06-28T01:56:21.501Z
+! Last modified: 2023-06-29T01:52:23.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -2750,6 +2750,7 @@
 ||api2.boclinkads.com^
 ||apia.headlines.pw^
 ||avoadsservices.com^
+||ax.mpcdn.top^
 ||banner.5giay.vn^
 ||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
@@ -5949,6 +5950,7 @@
 ||highperformancedformats.com^
 ||highprofitnetwork.com^
 ||highrevenuecpm.com^
+||highrevenuegate.com^
 ||hightrafficads.com^
 ||hilarion-lar.com^
 ||hilariouszinc.com^
@@ -137837,9 +137839,13 @@
 ||apex888.com^
 ||api-demo-games.top^
 ||api-ugaming.com^
+||api.fbdata.xyz^
+||api.fbhub.xyz^
 ||api.hb88a.com^
 ||api.hb88h.com^
 ||api.hubtop88.net^
+||api4.b5ipcoleser.net^
+||api6.b5ipcoleser.net^
 ||api88888.com^
 ||apiabo.com^
 ||apiq101.com^
@@ -154220,6 +154226,7 @@
 ||gamealiyun.com^
 ||gameb52.live^
 ||gameb52.pro^
+||gameb52a.me^
 ||gamebai.club^
 ||gamebaisumvip.net^
 ||gamebancaonline.com^
@@ -160321,6 +160328,7 @@
 ||i9bet77.com^
 ||i9bet777.com^
 ||i9bet8.com^
+||i9bet86.com^
 ||i9bet88.com^
 ||i9bet888.com^
 ||i9bet9.com^
