@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-07-10T01:57:15.489Z
+! Last modified: 2023-07-11T01:47:48.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6454,6 +6454,9 @@
 ||intellipopup.com^
 ||intellitxt.com^
 ||intendedeasiestlost.com^
+||intensedebate.com^
+||intensedebate.net^
+||intensedebate.org^
 ||intentmedia.net^
 ||intergi.com^
 ||internalads.gammae.com^
@@ -113912,6 +113915,7 @@
 ||63284.net^
 ||6328v.com^
 ||6328x.com^
+||63293.com^
 ||632986.com^
 ||63299s.com^
 ||632vip10.com^
@@ -117287,8 +117291,10 @@
 ||66js9.com^
 ||66jxf66.com^
 ||66jxi.fun^
+||66k.io^
 ||66k365.com^
 ||66k66.vip^
+||66kbeth.com^
 ||66kfdian98.com^
 ||66ko1.com^
 ||66ko9.com^
@@ -137385,6 +137391,7 @@
 ||8x038.com^
 ||8x039.com^
 ||8x040.com^
+||8x041.com^
 ||8x042.com^
 ||8x044.com^
 ||8x046.com^
@@ -142655,6 +142662,7 @@
 ||9789799.com^
 ||9789bet.com^
 ||978bet.app^
+||978bet.bet^
 ||978bet.com^
 ||978bet.net^
 ||978bet.org^
@@ -146426,6 +146434,7 @@
 ||aeuus.com^
 ||aev888.net^
 ||aevn52888.com^
+||aevn999.com^
 ||aewin88.com^
 ||aewuz.site^
 ||aeywdxqshb.com^
@@ -146940,6 +146949,7 @@
 ||alnxsouxaq.com^
 ||alo789.com^
 ||alo789.vip^
+||alo789viet.com^
 ||alo88.bet^
 ||alo888.com^
 ||aloesai.com^
@@ -158309,6 +158319,7 @@
 ||dailiw66.com^
 ||daily88uu.com^
 ||dailybet365vn.com^
+||dailybong88.bet^
 ||dailybong88.com^
 ||dailyjbocm.com^
 ||dailyjbolm.com^
@@ -158317,6 +158328,7 @@
 ||dailykto.com^
 ||dailysbobet.com^
 ||dailysbobetsbotop.com^
+||dailysbobetz.me^
 ||dailyv9bet.com^
 ||dailyvietcm.com^
 ||dailyvietlm.com^
@@ -190643,6 +190655,7 @@
 ||sbobet88.inc^
 ||sbobetasia.com^
 ||sbobeteu.com^
+||sbobetfun.org^
 ||sbobethk.com^
 ||sbobetid.com^
 ||sbobetliga.net^
@@ -192960,6 +192973,7 @@
 ||taigame789.club^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
+||taigem79.win^
 ||taigenvip.club^
 ||taigenvip88.club^
 ||taigenvip88.com^
@@ -193548,6 +193562,11 @@
 ||tk3333.cn^
 ||tk3333.vip^
 ||tk88.com^
+||tk88.in^
+||tk88.la^
+||tk88.rocks^
+||tk88.store^
+||tk88.tv^
 ||tk88.win^
 ||tk8888.vip^
 ||tk88g.com^
