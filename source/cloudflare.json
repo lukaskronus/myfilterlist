@@ -22,9 +22,9 @@
       "type": "hosts"
     },
     {
-      "name": "hagezi light",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
-      "type": "adblock"
+      "name": "TBLP Ads",
+      "source": "https://blocklistproject.github.io/Lists/ads.txt",
+      "type": "hosts"
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],
