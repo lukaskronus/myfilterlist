@@ -3,18 +3,13 @@
   "sources": [
     {
       "name": "hostsVN",
-      "source": "./adblock/hostsvn.txt",
+      "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+      "type": "hosts"
+    },
+    {
+      "name": "AdguardSDNS",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "type": "adblock"
-    },
-    {
-      "name": "ad-wars",
-      "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
-      "type": "hosts"
-    },
-    {
-      "name":" tiuxo",
-      "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
-      "type": "hosts"
     },
     {
       "name": "StevenBlack",
@@ -22,8 +17,8 @@
       "type": "hosts"
     },
     {
-      "name": "TBLP Ads",
-      "source": "https://blocklistproject.github.io/Lists/ads.txt",
+      "name": "hagezi light",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt",
       "type": "hosts"
     }
   ],
