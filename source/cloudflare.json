@@ -17,8 +17,8 @@
       "type": "hosts"
     },
     {
-      "name": "hagezi light",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt",
+      "name": "hagezi normal",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt",
       "type": "hosts"
     }
   ],
