@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-09-02T01:10:57.296Z
+! Last modified: 2023-09-03T01:17:20.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -50,8 +50,9 @@
 ||ads.gmodules.com^
 ||ads.youtube.com^
 ||ads.google.com^
-||mail-ads.google.com^
 ||analytics-alv.google.com^
+||fundingchoicesmessages.google.com^
+||mail-ads.google.com^
 ||2mdn-cn.net^
 ||admob-cn.com^
 ||doubleclick-cn.net^
@@ -50128,6 +50129,7 @@
 ||topfatporn.com^
 ||topfreeporn.com^
 ||topfreshporn.com^
+||topg88.live^
 ||topgaigoi.us^
 ||topgaixinh.com^
 ||topgaixinh.net^
@@ -51824,6 +51826,8 @@
 ||vns885888.com^
 ||vnshe.com^
 ||vnshow.cc^
+||vntopg88.live^
+||vntopg88.vip^
 ||vnxnxx.cc^
 ||vnxnxx.pro^
 ||vnxnxx.xyz^
@@ -147993,6 +147997,12 @@
 ||98998v.com^
 ||98999555.com^
 ||98999666.com^
+||989bet.com^
+||989bet5.com^
+||989bet6.com^
+||989bet7.com^
+||989bet8.com^
+||989bet9.com^
 ||989vip6.vip^
 ||989xy.com^
 ||98ag8.com^
@@ -170344,6 +170354,7 @@
 ||genting6.vip^
 ||genting8.bet^
 ||gentingxl.com^
+||genvipios.com^
 ||gepkc5pxswf6myhtprwmf2hgrpoulw7wq1snflbvjhascdzi.vip^
 ||ger76.xyz^
 ||gerdty.com^
@@ -187827,6 +187838,7 @@
 ||luc12.com^
 ||luc52.com^
 ||luchenlong.com^
+||luciu.shop^
 ||luck-cloud.com^
 ||luck35.net^
 ||luck6.com^
@@ -205208,6 +205220,9 @@
 ||vin68.com^
 ||vin777.work^
 ||vinalottery.com^
+||vinb00.com^
+||vinbet1001.com^
+||vinbet1005.com^
 ||vindercasino.dk^
 ||vineeasy.xyz^
 ||vinepipe.xyz^
@@ -208911,6 +208926,7 @@
 ||www-8687.net^
 ||www-88000.com^
 ||www-9659dh4.com^
+||www-989bet.com^
 ||www-99000.com^
 ||www-99519.com^
 ||www-99912.com^
