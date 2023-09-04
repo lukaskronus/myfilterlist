@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-09-03T01:17:20.310Z
+! Last modified: 2023-09-04T01:14:41.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2337,6 +2337,7 @@
 ||r.apkpure.net^
 ||report.apkpure.net^
 ||t.apkpure.net^
+||statsigapi.net^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -170034,6 +170035,7 @@
 ||gamingclub.com^
 ||gamingclubcasino.com^
 ||gamingdf.com^
+||gamingsoc88.org^
 ||gamingstream.xyz^
 ||gamsahabnigua.com^
 ||gamvip.com^
@@ -190224,6 +190226,8 @@
 ||mimi165s.com^
 ||mingdgdfge345.com^
 ||minggu111.com^
+||minicasino.io^
+||minivn.com^
 ||mintfans.xyz^
 ||mipay00.com^
 ||mipay00.xyz^
