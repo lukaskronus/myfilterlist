@@ -1,9 +1,9 @@
 name: Cloudflare Zero Trust
 
 on:
-  workflow_run:
-    workflows: ["Create Filter Lists"]
-    types: [completed]
+  #workflow_run:
+  #  workflows: ["Create Filter Lists"]
+  #  types: [completed]
   workflow_dispatch:
 
 jobs:

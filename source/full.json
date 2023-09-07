@@ -2,19 +2,24 @@
   "name": "Full list",
   "sources": [
     {
-      "name": "Lite list",
-      "source": "./adblock/lite.txt",
-      "type": "adblock"
-    },
-    {
       "name": "hostsVN",
       "source": "./adblock/hostsvn.txt",
+      "type": "hosts"
+    },
+    {
+      "name": "AdguardSDNS",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "type": "adblock"
     },
     {
-      "name": "hBlock",
-      "source": "https://hblock.molinero.dev/hosts_adblock.txt",
-      "type": "adblock"
+      "name": "hagezi",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt",
+      "type": "hosts"
+    },
+    {
+      "name": "mullvad privacy",
+      "source": "https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_privacy.txt",
+      "type": "hosts"
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],

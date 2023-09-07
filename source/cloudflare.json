@@ -12,21 +12,16 @@
       "type": "adblock"
     },
     {
-      "name": "StevenBlack",
-      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "name": "hagezi",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt",
       "type": "hosts"
     },
     {
-      "name": "hagezi light",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt",
-      "type": "hosts"
-    },
-    {
-      "name": "Windows Spy Blocker",
-      "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+      "name": "mullvad privacy",
+      "source": "https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_privacy.txt",
       "type": "hosts"
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],
-  "exclusions_sources": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt", "https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains"]
+  "exclusions_sources": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt"]
 }
