@@ -1,5 +1,5 @@
 # Variables
-ruleID="8c29a185-7d1b-4b49-b8d9-8145ed4437cf"
+ruleID="38315ba5-f83a-495b-8953-2d95ab54e980"
 
 # Split to 1000 lines (Cloudflare Free Plan)
 wget -O raw.txt "https://raw.githubusercontent.com/lukaskronus/myfilterlist/main/domain/lists/cloudflare-justdomains.txt"
