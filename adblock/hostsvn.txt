@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-09-11T00:32:18.044Z
+! Last modified: 2023-09-12T00:30:29.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4066,6 +4066,7 @@
 ||adv.livedoor.com^
 ||adv.mxmcdn.net^
 ||adv.nexthardware.com^
+||adv.vz.ru^
 ||adv.webmd.com^
 ||adv.wp.pl^
 ||adv.yo.cz^
@@ -67118,7 +67119,9 @@
 ||123873t.com^
 ||123873z.com^
 ||12388.club^
+||12388.store^
 ||123888999.com^
+||12388bet.co^
 ||12388bet.com^
 ||12389.bid^
 ||123893.vip^
