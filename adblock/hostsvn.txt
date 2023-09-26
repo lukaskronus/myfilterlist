@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-09-25T00:32:49.058Z
+! Last modified: 2023-09-26T00:32:33.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -118,6 +118,12 @@
 ||cloudfront-labs.amazonaws.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||popadex-1919430815.us-east-1.elb.amazonaws.com^
+||adtago.s3.amazonaws.com^
+||adtechvideo.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||sprocket-ping.s3.amazonaws.com^
 ||prod.cm.publishers.advertising.a2z.com^
 ||metrics.client-eng.a2z.com^
 ||ap-southeast-1.prod.pr.analytics.console.aws.a2z.com^
@@ -67204,6 +67210,7 @@
 ||123bet168.live^
 ||123bet168th.live^
 ||123bff.com^
+||123bhh.com^
 ||123cao.cn^
 ||123hgv.com^
 ||123kto.com^
@@ -172853,12 +172860,24 @@
 ||hb785.com^
 ||hb8510.app^
 ||hb8529.com^
+||hb88.com^
 ||hb88.dev^
 ||hb88.link^
+||hb88013.com^
+||hb88016.com^
 ||hb88017.com^
+||hb88021.com^
+||hb88024.com^
+||hb88025.com^
+||hb88028.com^
+||hb88029.com^
 ||hb88031.com^
 ||hb88032.com^
+||hb88033.com^
+||hb88036.com^
+||hb88037.com^
 ||hb88038.com^
+||hb88039.com^
 ||hb881.com^
 ||hb8816.com^
 ||hb8840.com^
@@ -191803,6 +191822,7 @@
 ||new88000.com^
 ||new8801.vip^
 ||new8802.vip^
+||new8803.com^
 ||new8803.vip^
 ||new8804.vip^
 ||new8805.com^
@@ -201438,6 +201458,7 @@
 ||thethaofi88.com^
 ||thethaofun88.com^
 ||thethaojbo.com^
+||thethaouk88.org^
 ||thethaoviet88.com^
 ||thethaovip.vip^
 ||thethaovn.bond^
