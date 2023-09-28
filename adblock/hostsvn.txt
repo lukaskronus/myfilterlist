@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-09-27T00:32:29.778Z
+! Last modified: 2023-09-28T00:32:08.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -541,25 +541,33 @@
 ||getclicky.com^
 ||adfstat.yandex.ru^
 ||adsdk.yandex.ru^
+||advertising.yandex.ru^
+||amc.yandex.ru^
 ||an.yandex.ru^
 ||awaps.yandex.ru^
 ||awsync.yandex.ru^
 ||bs.yandex.ru^
-||clck.yandex.ru^
 ||informer.yandex.ru^
 ||mc.yandex.ru^
 ||metrika.yandex.ru^
-||share.yandex.ru^
+||uaas.yandex.ru^
 ||adfox.yandex.ru^
 ||appmetrica.yandex.ru^
+||log.strm.yandex.ru^
 ||awaps.yandex.net^
 ||external-promo-metrics.yandex.net^
+||offerwall.yandex.net^
+||extmaps-api.yandex.net^
 ||appmetrica.yandex.net^
 ||analytics.mobile.yandex.net^
 ||banners-slb.mobile.yandex.net^
 ||banners.mobile.yandex.net^
-||clck.yandex.com^
+||startup.mobile.yandex.net^
+||abt.s3.yandex.net^
 ||appmetrica.yandex.com^
+||clck.yandex.com^
+||mc.yandex.com^
+||startup-mobile.ap.yandex-net.ru^
 ||webvisor.org^
 ||webvisor.ru^
 ||webvisor.com^
@@ -2202,6 +2210,7 @@
 ||ads.livetv701.me^
 ||ads.livetv703.me^
 ||ads.livetv705.me^
+||ads.livetv708.me^
 ||company-target.com^
 ||antillephone.com^
 ||intake-analytics.wikimedia.org^
@@ -2349,6 +2358,11 @@
 ||t13.io^
 ||hyperpromote.com^
 ||pocpoc.io^
+||skcrtxr.com^
+||digitaltarget.ru^
+||lp4.io^
+||afp.ai^
+||infox.sg^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -3314,6 +3328,7 @@
 ||2qj7mq3w4uxe.com^
 ||360playvid.com^
 ||360playvid.info^
+||3a2qi55fr.com^
 ||42d61f012e27b36d53.com^
 ||44tdfa.com^
 ||4d5.net^
@@ -3333,10 +3348,12 @@
 ||7c0616849b.com^
 ||7ca78m3csgbrid7ge.com^
 ||7imtcjd21.com^
+||7j2edrbxb.com^
 ||7yn3oczzo.com^
 ||864feb57ruary.com^
 ||999.money^
 ||9gg23.com^
+||9icysflbn.com^
 ||9purdfe9xg.com^
 ||a.mktw.net^
 ||a.photowonder.net^
@@ -4216,6 +4233,7 @@
 ||ahgxawophb.com^
 ||ahjanhabmo.com^
 ||ahjshyoqlo.com^
+||ahjuliten.com^
 ||ahlcujguphr.com^
 ||ahqpqpdjpj.com^
 ||ahreprh2kfk8rfjr09.com^
@@ -4741,6 +4759,7 @@
 ||bestcpmnetwork.com^
 ||bestdisplayformats.com^
 ||besthealthblog.pro^
+||bestlampjoy.com^
 ||bestsearch.net^
 ||bestzba.com^
 ||bethinkparah.com^
@@ -5425,6 +5444,7 @@
 ||d12czbu0tltgqq.cloudfront.net^
 ||d13k7prax1yi04.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
+||d188m5xxcpvuue.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||d1byvlfiet2h9q.cloudfront.net^
 ||d1clmik8la8v65.cloudfront.net^
@@ -6372,6 +6392,7 @@
 ||gycqna.com^
 ||gyfumobo.com^
 ||h2aek6rv0ard.com^
+||h4aock41f.com^
 ||h78xb.pw^
 ||habitsdemise.com^
 ||hacbfyvvsw.com^
@@ -6501,6 +6522,7 @@
 ||hizopforkajf.com^
 ||hjfmaukf.com^
 ||hkamixrrot.com^
+||hkilops.com^
 ||hkoxlirf.com^
 ||hlvndpqwiwnyq.com^
 ||hmepalobfn.com^
@@ -7428,6 +7450,7 @@
 ||modifyeyes.com^
 ||modulepush.com^
 ||moekyepkd.com^
+||moevideo.biz^
 ||mogreet.com^
 ||mojiva.com^
 ||moldyicicle.com^
@@ -8324,6 +8347,7 @@
 ||pubdirecte.com^
 ||pubeshogback.uno^
 ||pubianmending.space^
+||pubimageboard.com^
 ||public.wedodemos.com^
 ||publicationqueenfriends.com^
 ||publicidad.elmundo.es^
@@ -8420,6 +8444,7 @@
 ||qudlroasvoqp.com^
 ||quenchskirmishcohere.com^
 ||questaffiliates.net^
+||quhupyni2.com^
 ||quickpasss.com^
 ||quicksandear.com^
 ||quietknowledge.com^
@@ -8838,6 +8863,7 @@
 ||sessioncam.com^
 ||sessionm.com^
 ||setbackclassy.com^
+||setka.media^
 ||sexadvertentiesite.nl^
 ||sexcounter.com^
 ||sexinyourcity.com^
@@ -9976,6 +10002,7 @@
 ||withoutollock.store^
 ||witnessremovalsoccer.com^
 ||wizaly.com^
+||wizkrdxivl.com^
 ||wkyswppiobnuqje.com^
 ||wlmarketing.com^
 ||wmiakcpceocm.com^
@@ -10088,6 +10115,7 @@
 ||xgzyfpmfkxa.com^
 ||xijahhhuzsr.com^
 ||xijdiptaro.com^
+||xisihv12n.com^
 ||xitajbwucquv.com^
 ||xiti.com^
 ||xius.com^
@@ -10707,6 +10735,7 @@
 ||prooffactor.com^
 ||propeller-tracking.com^
 ||prx.wayfair.com^
+||push4site.com^
 ||pv.medialead.de^
 ||pv.pjtsu.com^
 ||pv.sohu.com^
@@ -10790,8 +10819,10 @@
 ||srmdata.com^
 ||ssc.api.bbc.com^
 ||ssm.codes^
+||st.top100.ru^
 ||stat.analytiall.com^
 ||stat.hackedonlinegames.com^
+||stat.media^
 ||stat.meitudata.com^
 ||stat2.openinstall.io^
 ||stathat.com^
@@ -51757,6 +51788,7 @@
 ||vlxx.ac^
 ||vlxx.ai^
 ||vlxx.bet^
+||vlxx.bio^
 ||vlxx.buzz^
 ||vlxx.cc^
 ||vlxx.chat^
@@ -51774,6 +51806,7 @@
 ||vlxx.icu^
 ||vlxx.info^
 ||vlxx.io^
+||vlxx.kim^
 ||vlxx.live^
 ||vlxx.me^
 ||vlxx.media^
@@ -52680,7 +52713,6 @@
 ||ww078.com^
 ||ww095.com^
 ||ww1.heyzohd.com^
-||ww1.vlxx.bio^
 ||ww107.com^
 ||ww190.com^
 ||ww203.com^
@@ -71808,6 +71840,7 @@
 ||168aaa.vip^
 ||168bb.vip^
 ||168bbb.vip^
+||168bet.vin^
 ||168bet8.com^
 ||168bet9.net^
 ||168boleh.com^
@@ -108662,6 +108695,7 @@
 ||54yabo.com^
 ||54yl.com^
 ||55000.com^
+||550004.com^
 ||55003118.com^
 ||5500365.com^
 ||55004008.com^
@@ -130096,6 +130130,7 @@
 ||782jcb.info^
 ||782jcb.net^
 ||783003.com^
+||783088.com^
 ||783114.com^
 ||7831155.com^
 ||78312783.com^
@@ -131004,6 +131039,7 @@
 ||789club.shop^
 ||789clubmobi.online^
 ||789clubs.club^
+||789clubs.vin^
 ||789clubvip.biz^
 ||789clubvip.pro^
 ||789covn.online^
@@ -131662,6 +131698,7 @@
 ||79ky026.com^
 ||79ky028.com^
 ||79ky029.com^
+||79luckyclub.fun^
 ||79qp001.com^
 ||79qp002.com^
 ||79qp003.com^
@@ -149345,6 +149382,7 @@
 ||99tt.app^
 ||99ttpq.com^
 ||99uu0880.com^
+||99vina.club^
 ||99vipbet.com^
 ||99vipjbo.com^
 ||99vn.bet^
@@ -151640,6 +151678,7 @@
 ||apex888.com^
 ||api-demo-games.top^
 ||api-ugaming.com^
+||api.apiwyn88.net^
 ||api.btyseo.com^
 ||api.c5l1t57.site^
 ||api.fbdata.xyz^
@@ -152033,6 +152072,7 @@
 ||asprobet.com^
 ||asqta.com^
 ||asqw24uu67412t.com^
+||asset2bay.com^
 ||assetda.xyz^
 ||ast158.xyz^
 ||ast222.xyz^
@@ -153185,6 +153225,7 @@
 ||b5277.com^
 ||b528376.com^
 ||b5284.com^
+||b52api.net^
 ||b52d.club^
 ||b52k.club^
 ||b52m.club^
@@ -153591,6 +153632,7 @@
 ||b68y7.com^
 ||b68y8.com^
 ||b69.bet^
+||b69.city^
 ||b6912.com^
 ||b6919.com^
 ||b6928.com^
@@ -156590,7 +156632,9 @@
 ||bigbet0015.com^
 ||bigbet0020.com^
 ||bigbet2258.com^
+||bigbet2322.com^
 ||bigbet2827.com^
+||bigbet2873.com^
 ||bigbet6233.com^
 ||bigbetspro.com^
 ||bigbizsports.com^
@@ -162063,6 +162107,7 @@
 ||chinese-th.com^
 ||chj790930.vip^
 ||choang.fun^
+||choang.tv^
 ||chobet.com^
 ||chobet1.com^
 ||chobetcs.com^
@@ -162081,6 +162126,7 @@
 ||choigame88.com^
 ||choigame90.com^
 ||choigiaitri.net^
+||choihay.vip^
 ||choihitclub.run^
 ||choiiwin79.fun^
 ||choilathang.com^
@@ -162980,6 +163026,7 @@
 ||crownbethk.com^
 ||crpati10.com^
 ||crqp.cn^
+||crr18hs.com^
 ||crsmo.win^
 ||crtxn.com^
 ||crushsky.xyz^
@@ -163729,6 +163776,7 @@
 ||dabao9977.com^
 ||dabao9988.com^
 ||dabao9999.com^
+||dabet.cc^
 ||dabet.club^
 ||dabet.com^
 ||dabet.fun^
@@ -164033,6 +164081,7 @@
 ||dbqlt.com^
 ||dbst888.com^
 ||dbt777.online^
+||dbthethao.run^
 ||dbvwd.com^
 ||dc1130907.com^
 ||dc1135.com^
@@ -165518,14 +165567,37 @@
 ||dwf168168.vip^
 ||dwf8scd56sfngm6hs9adg3gcg.com^
 ||dwfiw6544fjwifhwo4fwnfwof11fjhfoiwjf.com^
+||dwin00.com^
 ||dwin000.com^
+||dwin01.com^
+||dwin02.com^
+||dwin03.com^
+||dwin04.com^
+||dwin05.com^
+||dwin055.com^
+||dwin06.com^
 ||dwin068.com^
+||dwin07.com^
+||dwin08.com^
+||dwin09.com^
+||dwin155.com^
 ||dwin222.com^
+||dwin255.com^
 ||dwin268.com^
 ||dwin333.com^
+||dwin355.com^
 ||dwin368.com^
+||dwin455.com^
+||dwin555.com^
 ||dwin568.com^
+||dwin655.com^
 ||dwin668.com^
+||dwin68.club^
+||dwin68.com^
+||dwin68.net^
+||dwin755.com^
+||dwin855.com^
+||dwin955.com^
 ||dwin999.com^
 ||dwjid.win^
 ||dwk9b.com^
@@ -166972,6 +167044,7 @@
 ||f349845.net^
 ||f349846.net^
 ||f349847.net^
+||f35.club^
 ||f3597.com^
 ||f3808.com^
 ||f39036.com^
@@ -167347,12 +167420,14 @@
 ||faally.net^
 ||faalso.com^
 ||faalso.net^
+||fabet.ac^
 ||fabet.biz^
 ||fabet.cc^
 ||fabet.com^
 ||fabet.info^
 ||fabet.live^
 ||fabet.me^
+||fabet.net^
 ||fabet.tv^
 ||fabet.us^
 ||fabet.vip^
@@ -167560,6 +167635,7 @@
 ||fcb8.vin^
 ||fcb8.vip^
 ||fcb8.win^
+||fcb88.cc^
 ||fcb88.com^
 ||fcb88.vip^
 ||fcb88d.com^
@@ -171039,6 +171115,7 @@
 ||go88b.com^
 ||go88bet.net^
 ||go88f.com^
+||go88live.app^
 ||go88p.com^
 ||go88play.net^
 ||go88r.pro^
@@ -175237,6 +175314,7 @@
 ||hnylfwsy.com^
 ||hnyspxw.com^
 ||hnzscy.com^
+||ho.vin^
 ||ho18.net^
 ||ho518.net^
 ||hoabanh.com^
@@ -183770,6 +183848,7 @@
 ||k8vii97.com^
 ||k8vii98.com^
 ||k8vii99.com^
+||k8vin.fun^
 ||k8vina.com^
 ||k8vina01.com^
 ||k8vina02.com^
@@ -184593,6 +184672,7 @@
 ||kaishi998.com^
 ||kaishi999.com^
 ||kaitiyu.com^
+||kaivip.club^
 ||kaixin117888.com^
 ||kaixin23111888.com^
 ||kaixin3335888.com^
@@ -185087,6 +185167,7 @@
 ||king92.bet^
 ||king93.net^
 ||king96.net^
+||king999.pro^
 ||kingbet86.app^
 ||kingbet86.com^
 ||kingbet86.info^
@@ -185101,8 +185182,10 @@
 ||kingfun2.com^
 ||kingfun247.net^
 ||kingfun99.com^
+||kingfunsomot.com^
 ||kingjohnnievip.com^
 ||kinglive699.com^
+||kingman.fun^
 ||kings678.xyz^
 ||kings88.net^
 ||kingslot.app^
@@ -185112,6 +185195,7 @@
 ||kingslot9.com^
 ||kingslot999.com^
 ||kingtodo.xyz^
+||kingvip99.com^
 ||kirtu.biz^
 ||kisssell.xyz^
 ||kiwder.xyz^
@@ -187680,6 +187764,7 @@
 ||lo5569.com^
 ||lob2pgoiqq.vip^
 ||lobby.ufathai.com^
+||loc789.club^
 ||loc88.fun^
 ||loc89.fun^
 ||loc89.vip^
@@ -188792,6 +188877,7 @@
 ||m8tasks.com^
 ||m8wgi.com^
 ||m8winvip.com^
+||m8winvnd.com^
 ||m8winvnn.com^
 ||m8winvnn1.com^
 ||m8x28d.com^
@@ -191738,9 +191824,11 @@
 ||nbet.me^
 ||nbet.site^
 ||nbet.top^
+||nbet.tv^
 ||nbet.vip^
 ||nbet.win^
 ||nbet.zone^
+||nbet88.org^
 ||nbet88.pro^
 ||nbetway.com^
 ||nbeuz.win^
@@ -192930,6 +193018,7 @@
 ||one88.fun^
 ||one88.me^
 ||one88.top^
+||one88.tv^
 ||one88.uk^
 ||one88.us^
 ||one88.vin^
@@ -193064,6 +193153,7 @@
 ||orangecityjob.com^
 ||orc.bet^
 ||ordern.xyz^
+||origin.net88.asia^
 ||orxuxps.xyz^
 ||orz138.com^
 ||osb01.com^
@@ -199833,6 +199923,7 @@
 ||stzby.win^
 ||su63hf.com^
 ||su66.org^
+||su789.win^
 ||suachuamit.com^
 ||subegg.xyz^
 ||subhard.xyz^
@@ -201909,6 +202000,7 @@
 ||tonglejiazu.com^
 ||tonglemanhua.com^
 ||tonmway.com^
+||tony88mys.com^
 ||tonybet.ng^
 ||top-canadiancasinos.com^
 ||top11x5.com^
@@ -201926,6 +202018,7 @@
 ||top88.us^
 ||top88.vn^
 ||top88a.vip^
+||top88vn.club^
 ||top88vn.fun^
 ||top88vn.lat^
 ||top88vn.net^
@@ -204104,6 +204197,7 @@
 ||uw88vnd.com^
 ||uw88vnd1.com^
 ||uw88vnd4.com^
+||uw88vnn1.com^
 ||uwbpq.win^
 ||uwe27.org^
 ||uwhwimn.xyz^
@@ -205363,6 +205457,7 @@
 ||vin168.com^
 ||vin68.com^
 ||vin777.work^
+||vin999.fun^
 ||vinalottery.com^
 ||vinb00.com^
 ||vinbet1001.com^
@@ -205392,6 +205487,8 @@
 ||vip0665.com^
 ||vip08005.com^
 ||vip083.com^
+||vip11.club^
+||vip11.us^
 ||vip1130.com^
 ||vip1137.com^
 ||vip1139.com^
@@ -208320,9 +208417,12 @@
 ||winaph.com^
 ||winball888.com^
 ||winbaoma.com^
+||winbet.gold^
+||winbet.win^
 ||winbet288.com^
 ||winbet58.live^
 ||winbet58.win^
+||winbet5858.com^
 ||winbet77.bet^
 ||winbet91.com^
 ||winbet99.bet^
@@ -209384,6 +209484,8 @@
 ||wymyp1.com^
 ||wymypay1.com^
 ||wymypaysq.com^
+||wyn.club^
+||wyn88.ski^
 ||wynn06.com^
 ||wynn08.com^
 ||wynn86.com^
@@ -211121,6 +211223,7 @@
 ||xeng3.com^
 ||xeng4.com^
 ||xeng5.com^
+||xeng52.com^
 ||xeng7.com^
 ||xeng9.com^
 ||xengtructuyen.com^
