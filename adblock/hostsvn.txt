@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-10-11T00:32:21.858Z
+! Last modified: 2023-10-12T00:30:46.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -164,6 +164,7 @@
 ||ads-verify.yap.yahoo.com^
 ||ads.yap.yahoo.com^
 ||m.yap.yahoo.com^
+||adtech.yahooinc.com^
 ||ard.yahoo.co.jp^
 ||b90.yahoo.co.jp^
 ||b92.yahoo.co.jp^
@@ -1667,6 +1668,7 @@
 ||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||metrics.data.hicloud.com^
+||metrics2.data.hicloud.com^
 ||yourwebbars.com^
 ||cquotient.com^
 ||xlisting.jp^
@@ -2363,6 +2365,8 @@
 ||lp4.io^
 ||afp.ai^
 ||infox.sg^
+||ad-log-upload-os.hoyoverse.com^
+||log-upload-os.hoyoverse.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2443,6 +2447,7 @@
 ||api.widget.zalo.me^
 ||page.widget.zalo.me^
 ||stats.lab.zalo.ai^
+||log.zalo.video^
 ||centralized.zaloapp.com^
 ||px.dmp.zaloapp.com^
 ||px.za.zaloapp.com^
@@ -2978,6 +2983,7 @@
 ||quangcao.baovannghe.com.vn^
 ||quangcao.fff.com.vn^
 ||quangcao247.com.vn^
+||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
 ||realclick.vn^
@@ -3020,10 +3026,10 @@
 ||vipads.live^
 ||vlxx.host^
 ||vnadssb.com^
+||webpush.vn^
 ||widget.headlines.pw^
 ||xads.joboko.com^
 ||xmadsapi.joboko.com^
-||quangcaococcoc.vn^
 ||360.anatic.net^
 ||a.ladipage.com^
 ||a.vtvdigital.vn^
@@ -3181,6 +3187,8 @@
 ||logv3.metric.vn^
 ||marketing.itgeek.vn^
 ||matomo.quan.hoabinh.vn^
+||matomo.vietlottsms.vn^
+||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
 ||mkt.hoanghamobile.com^
@@ -3269,6 +3277,7 @@
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||trackingapi.foody.vn^
+||trackingsea.zingplay.com^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
 ||traffic.vietnhan.co^
@@ -3976,6 +3985,7 @@
 ||adserve.ams.rhythmxchange.com^
 ||adserver-e7.com^
 ||adserver.adultfriendfinder.com^
+||adserver.adverty.com^
 ||adserver.barrapunto.com^
 ||adserver.beggarspromo.com^
 ||adserver.bizhat.com^
@@ -4107,10 +4117,12 @@
 ||adverserve.net^
 ||advert.bayarea.com^
 ||advert360.com^
+||advertica-cdn2.com^
 ||adverticum.com^
 ||adverticum.net^
 ||adverticus.de^
 ||advertise.com^
+||advertise.ldplayer.net^
 ||advertiseireland.com^
 ||advertisementafterthought.com^
 ||advertiseru.net^
@@ -4981,6 +4993,7 @@
 ||bzalmaodlp.com^
 ||bzwdksdngjhay.com^
 ||bzwo2lmwioxa.com^
+||c.bannerflow.net^
 ||c.bigmir.net^
 ||c.bigmuzzytrckr.com^
 ||c.srvpcn.com^
@@ -5204,8 +5217,10 @@
 ||clickopop1000.com^
 ||clickreport.online^
 ||clicks.equantum.com^
+||clicks.eventbrite.com^
 ||clicks.mods.de^
 ||clickserve.cc-dt.com^
+||clicksmint.site^
 ||clicksor.com^
 ||clicktag.de^
 ||clickthruserver.com^
@@ -5320,6 +5335,7 @@
 ||copterezba.com^
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
+||core.royalads.net^
 ||coreidkanaka.digital^
 ||coremetrics.com^
 ||coretalk.co^
@@ -5393,6 +5409,8 @@
 ||crispwireless.com^
 ||critictruck.com^
 ||crittercorupay.com^
+||crmpt.livejasmin.com^
+||crmt.livejasmin.com^
 ||croakdisconnectedclaw.com^
 ||croniesobli.com^
 ||crosspromo.voodoo.io^
@@ -5957,6 +5975,7 @@
 ||exogripper.com^
 ||exomonyf.com^
 ||exonymayuyu.com^
+||expdirclk.com^
 ||expensepurpose.com^
 ||experteerads.com^
 ||expertnifg.com^
@@ -6234,6 +6253,7 @@
 ||geo.digitalpoint.com^
 ||geobanner.adultfriendfinder.com^
 ||geovisite.com^
+||get-here-click.xyz^
 ||get2m5sgstohne.com^
 ||getadx.com^
 ||getalinkandshare.com^
@@ -6902,6 +6922,7 @@
 ||jumptap.com^
 ||jungianoxamide.space^
 ||junkieswudge.com^
+||junmediadirect1.com^
 ||junotherome.com^
 ||juratoroutsees.uno^
 ||juringupstage.com^
@@ -7412,6 +7433,7 @@
 ||mkkvprwskq.com^
 ||mkzqqhaakt.com^
 ||mlm.de^
+||mlsend.com^
 ||mlvgxzenoiz.com^
 ||mmaglobal.com^
 ||mmccint.com^
@@ -8209,6 +8231,7 @@
 ||popruexo.com^
 ||popsoffer.com^
 ||popub.com^
+||popunder.bid^
 ||popunder.ru^
 ||popupblockergold.com^
 ||popupmoney.com^
@@ -9459,6 +9482,7 @@
 ||toplist.pornhost.com^
 ||toplistcity.com^
 ||topmmorpgsites.com^
+||toponadss.com^
 ||toprebates.com^
 ||toprevenuecpmnetwork.com^
 ||topsearcher.com^
@@ -10635,7 +10659,6 @@
 ||lngtd.com^
 ||log-eap-sg.coloros.com^
 ||log-upload-eur.mihoyo.com^
-||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log.ajunews.com^
@@ -10665,6 +10688,7 @@
 ||mads.dailymail.co.uk^
 ||maper.info^
 ||masasaudi.com^
+||matomo.openstreetmap.org^
 ||mautic.bdev.co.th^
 ||measure.admiralmarkets.com^
 ||media-match.com^
@@ -10934,6 +10958,7 @@
 ||truehits.in.th^
 ||u-on.eu^
 ||ua.indianexpress.com^
+||ubt-sin.tripcdn.com^
 ||ubuyanalytics.ubuy.com^
 ||uciservice.com^
 ||uie.data.cbc.ca^
@@ -151681,8 +151706,6 @@
 ||api.apiwyn88.net^
 ||api.btyseo.com^
 ||api.c5l1t57.site^
-||api.fbdata.xyz^
-||api.fbhub.xyz^
 ||api.hb88a.com^
 ||api.hb88h.com^
 ||api.hubtop88.net^
@@ -164888,6 +164911,7 @@
 ||diamondbets9.com^
 ||diamondexch-crk.com^
 ||diandongshiyabeng.com^
+||dibongda777.com^
 ||diendansohoc.net^
 ||diiripqvneipaveprf.info^
 ||dikncjdyepwscj1w2e3r7.com^
@@ -165225,6 +165249,7 @@
 ||drsam11.com^
 ||drsdx.win^
 ||drtyhfhjyh546.xyz^
+||dry2s.com^
 ||ds01ds.com^
 ||ds2628.com^
 ||ds2868.com^
@@ -171194,6 +171219,7 @@
 ||gold999vn.com^
 ||gold99vn.com^
 ||goldenbet.com^
+||goldendragon99.net^
 ||goldeneaglebet.com^
 ||goldenlion.games^
 ||goldenreefcasino.com^
@@ -195108,6 +195134,7 @@
 ||playmanclub.uk^
 ||playmanclub.vin^
 ||playmay88.top^
+||playmay88.vin^
 ||playme168.club^
 ||playpelican.bet^
 ||playsbo.com^
@@ -199018,6 +199045,7 @@
 ||shb44.com^
 ||shbet.app^
 ||shbet.com^
+||shbet.id^
 ||shbet.live^
 ||shbet.loan^
 ||shbet.love^
@@ -218199,6 +218227,7 @@
 ||anwasthere.cfd^
 ||anzvn.net^
 ||aodaisieuvietnhi2022.weebly.com^
+||app.amazon-line.com^
 ||app.mybigc.net^
 ||app.senaobz.cc^
 ||apphdbank.fun^
@@ -218482,11 +218511,13 @@
 ||dienlanhnguyenkim.ctyvn.net^
 ||dienmayxanh-hcm.com^
 ||dienmayxanh-vn.top^
+||dienmayxanh.cloud^
 ||dienmayxanh.fun^
 ||dienmayxanh247.com^
 ||dienmayxanh24h.com^
 ||dienmayxanh24h.net^
 ||dienmayxanh268.com^
+||dienmayxanh269.com^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
 ||dienmayxanhbeautyplus.com^
@@ -218903,6 +218934,7 @@
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
+||hotromayxanh.com^
 ||hotronganhang.site^
 ||hotroonline.net^
 ||hotroruttindung.com^
@@ -219062,6 +219094,7 @@
 ||kirov1.xyz^
 ||km-digibank.com^
 ||kmnapthe.ga^
+||ksdp997.com^
 ||kstorybank.top^
 ||ktien.vn^
 ||kuyhaa-me.pw^
@@ -219212,6 +219245,7 @@
 ||login-applecare.com^
 ||loginame.shop^
 ||long-thanh.com^
+||lookctv-vn.com^
 ||lotomomo.com^
 ||lotte.cm66llks.top^
 ||lotte333.com^
@@ -219260,6 +219294,7 @@
 ||mbbank247.top^
 ||mbbank247.xyz^
 ||mbbankl.com^
+||mbbankmn.com^
 ||mbbankn.com^
 ||mbbffn.online^
 ||mbtk-bank.com^
@@ -219847,6 +219882,7 @@
 ||pos-quettheonline.com^
 ||postindungnhanh-vn.com^
 ||postvay.com^
+||pouy99uo.com^
 ||pqrm9.com^
 ||premierebankstandard.com^
 ||privatproxy-blog.com^
@@ -220042,6 +220078,7 @@
 ||share.ttchanging.com^
 ||shatheg.cfd^
 ||shb8-vay.com^
+||shbcredit.net^
 ||shbfina.com^
 ||shbfinan.com^
 ||shbfinanoe.com^
@@ -220070,6 +220107,7 @@
 ||shoopaean.com^
 ||shoopency.com^
 ||shoopvv.com^
+||shoosse.com^
 ||shop146.com^
 ||shop2727.com^
 ||shop3001.com^
@@ -220511,6 +220549,7 @@
 ||sonarsurveyof.cfd^
 ||sos-icloud.com^
 ||spark123.shop^
+||spohopenm.com^
 ||spsinhlychinhhang.com^
 ||sputrey567rik.cfd^
 ||squashtalk.com^
@@ -220612,6 +220651,7 @@
 ||tadcqv.com^
 ||tadmak.com^
 ||tadmv.com^
+||tafcaz.com^
 ||tafccc.com^
 ||tagclick-cdn.com^
 ||taiappbank.info^
@@ -220677,6 +220717,7 @@
 ||thanhtoanlienquan.com^
 ||thebank247.ga^
 ||thechapnganhang-24h.com^
+||thegiodidong.com.vn^
 ||thegioididong.me^
 ||thegioididong.store^
 ||thegioidienmayxanh.com^
@@ -220714,6 +220755,7 @@
 ||thuynganhang.com^
 ||thuynganhang.xyz^
 ||thuytrieukiemtien.online^
+||ticketb0x.com^
 ||ticlewesimulate.cfd^
 ||tictoc.live^
 ||tien8833.com^
@@ -220928,6 +220970,8 @@
 ||traoquatangshopee.com^
 ||traothuongxe37.com^
 ||traothuongxe7.com^
+||travelokeaaa.top^
+||travelokeaaa.vip^
 ||trffcdmn.com^
 ||trian-pubgmbvng.com^
 ||trianbux.com^
@@ -221001,6 +221045,7 @@
 ||txclmomo.club^
 ||ucesreferre.club^
 ||ugvietnam.net^
+||uhy89mb.com^
 ||ullis-airbrush-shop.de^
 ||undertheguid.cfd^
 ||undimangen.cfd^
@@ -221009,6 +221054,7 @@
 ||unlimitedteacup.com^
 ||unlockdienthoai.zyrosite.com^
 ||upceshop.cn^
+||upmiles-vpbank.com^
 ||upta16theu.cfd^
 ||uptomscan.cfd^
 ||uslimsofbr.cfd^
@@ -221510,6 +221556,7 @@
 ||vn-tpbank.com^
 ||vn-ub.info^
 ||vn-uz.info^
+||vn-vietnam.com^
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
