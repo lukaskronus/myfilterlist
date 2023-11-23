@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-11-22T00:36:08.291Z
+! Last modified: 2023-11-23T00:34:26.432Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3191,7 +3191,6 @@
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
 ||logging.kinhtedothi.vn^
-||logs-ott.fbox.fpt.vn^
 ||logs.1cdn.vn^
 ||logs.docnhanh.com.vn^
 ||logs.thethaovanhoa.vn^
