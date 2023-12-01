@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-11-30T00:34:46.714Z
+! Last modified: 2023-12-01T00:37:55.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -10757,6 +10757,7 @@
 ||omeda.com^
 ||oms.expedia.com^
 ||online-prod.zenmxapps.com^
+||openfpcdn.io^
 ||opensharecount.com^
 ||ophan.theguardian.com^
 ||optnmstr.com^
@@ -66697,6 +66698,7 @@
 ||11bet999.bet^
 ||11bet999.fun^
 ||11bettor.com^
+||11betvnd.com^
 ||11by.com^
 ||11by.vip^
 ||11byyl.vip^
@@ -201298,6 +201300,8 @@
 ||taisum.ac^
 ||taisum.co^
 ||taisum.io^
+||taisum1.club^
+||taisum2.com^
 ||taisun52.live^
 ||taisunwin.live^
 ||taitx1.club^
