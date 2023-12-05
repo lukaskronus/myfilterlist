@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-12-04T00:35:21.359Z
+! Last modified: 2023-12-05T00:35:26.725Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -170567,6 +170567,8 @@
 ||gd5518.com^
 ||gd5544.com^
 ||gd5592.com^
+||gd55id.com^
+||gd55m.org^
 ||gd5886.com^
 ||gd6543.com^
 ||gd6658.com^
@@ -218348,6 +218350,7 @@
 ||ahoravideo-schnellvpn.com^
 ||ahoravideo-schnellvpn.xyz^
 ||ahthegha.cfd^
+||aivaylaco.com^
 ||alibabavip.xyz^
 ||alibabavn.shop^
 ||alibabavnn.com^
