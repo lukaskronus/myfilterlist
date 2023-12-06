@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-12-05T00:35:26.725Z
+! Last modified: 2023-12-06T00:35:17.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2605,9 +2605,20 @@
 ||kabbmedia.com^
 ||testcentre.vn^
 ||piads.vn^
-||haraloyalty.com^
-||harafunnel.com^
-||haraads.com^
+||app.harafunnel.com^
+||app.haraloyalty.com^
+||app.harasocial.com^
+||apps.haraads.com^
+||assets.harafunnel.com^
+||combo-omni.haravan.com^
+||socialloginplus-apps.haravan.com^
+||facebookinbox-omni-onapp.haravan.com^
+||promotion.haravan.com^
+||onapp.haravan.com^
+||facebook-ads.hara.vn^
+||google-ads.hara.vn^
+||stats.hara.vn^
+||tiktok-ads.hara.vn^
 ||starseed.fr^
 ||slimads.vn^
 ||t.sieu-viet.com^
@@ -2815,11 +2826,6 @@
 ||me.zedcdn.me^
 ||mme.zedcdn.me^
 ||aanetwork.vn^
-||combo-omni.haravan.com^
-||socialloginplus-apps.haravan.com^
-||facebookinbox-omni-onapp.haravan.com^
-||promotion.haravan.com^
-||onapp.haravan.com^
 ||ads.ultraviewer.net^
 ||qc.ultraviewer.net^
 ||vipads.cc^
@@ -10682,6 +10688,7 @@
 ||kidsghibli.com^
 ||kissmetrics.com^
 ||kitbit.net^
+||knotch-cdn.com^
 ||largeer.com^
 ||lcs.loginfra.com^
 ||leadzutw.com^
@@ -10867,6 +10874,7 @@
 ||smetrics.bestbuy.com^
 ||smetrics.boston.com^
 ||smetrics.fedex.com^
+||smetrics.foxnews.com^
 ||snap.licdn.com^
 ||snnd.co^
 ||snowplow-pixel.tradingview.com^
@@ -71495,6 +71503,7 @@
 ||1652ky.com^
 ||1653125.com^
 ||16533.vip^
+||165337.com^
 ||165378.com^
 ||165390.com^
 ||1653a.com^
@@ -107016,6 +107025,7 @@
 ||51df.bet^
 ||51eee.bet^
 ||51fff.bet^
+||51fz.net^
 ||51hg7.com^
 ||51jingxian.com^
 ||51jjb2.com^
@@ -149869,6 +149879,7 @@
 ||9z9a.com^
 ||9zqtr.vip^
 ||a-3-6-5-9.com^
+||a.salkjfds54dsfsjlkn.com^
 ||a0009.com^
 ||a000yl.com^
 ||a0018.com^
@@ -151770,6 +151781,7 @@
 ||api.apiwyn88.net^
 ||api.btyseo.com^
 ||api.c5l1t57.site^
+||api.dodo.51yipo.com^
 ||api.hb88a.com^
 ||api.hb88h.com^
 ||api.hubtop88.net^
@@ -160852,6 +160864,7 @@
 ||by862.com^
 ||by875.com^
 ||by88.app^
+||by88.one^
 ||by88000.com^
 ||by888.com^
 ||by892.com^
@@ -179944,6 +179957,7 @@
 ||jkasd559dcjd.com^
 ||jkcnsj33.com^
 ||jkdas23cjn26cdj.com^
+||jkfka.com^
 ||jkgvhj.bid^
 ||jkiogd.bid^
 ||jkjkkkj.com^
@@ -186933,6 +186947,7 @@
 ||laixin66.com^
 ||laiyishuo.com^
 ||lalawager.com^
+||lalzvm-launches.appsflyersdk.com^
 ||lambada-tx1app.fun^
 ||lananhtk88.top^
 ||lancarwd.com^
@@ -187856,6 +187871,7 @@
 ||lltvhdzx3.com^
 ||llv25.com^
 ||llvip5.com^
+||llxx7r-launches.appsflyersdk.com^
 ||llyl04.com^
 ||llyq8866.com^
 ||llyq9988.com^
@@ -191855,6 +191871,7 @@
 ||naisili.com^
 ||naka689.com^
 ||nakukop.com^
+||naming.win133.me^
 ||nang4.com^
 ||nang9.com^
 ||nangfah88.com^
@@ -200272,6 +200289,7 @@
 ||supremepicks.com^
 ||susnv.com^
 ||susu86.onilne^
+||susu86.online^
 ||sut1dzo2.com^
 ||sutbong123.com^
 ||suu2023.com^
@@ -201910,6 +201928,7 @@
 ||tk2222.vip^
 ||tk2226.com^
 ||tk2228.com^
+||tk235.de^
 ||tk26.cn^
 ||tk326.com^
 ||tk3333.cn^
@@ -204081,6 +204100,7 @@
 ||ughkr.win^
 ||ugibnj.bid^
 ||ugp532qvg.com^
+||ugt9xkkt.com^
 ||uh23.com^
 ||uh3iz.com^
 ||uh5et.biz^
@@ -205348,6 +205368,7 @@
 ||vbet3655.com^
 ||vbet66.com^
 ||vbet777.com^
+||vbet88.fun^
 ||vbetmm05.com^
 ||vbetmm07.com^
 ||vbetmm18.com^
@@ -205560,6 +205581,7 @@
 ||vg977.com^
 ||vg99.com^
 ||vg991.com^
+||vgame365.com^
 ||vgaming88.net^
 ||vgfwja.com^
 ||vgood88.com^
