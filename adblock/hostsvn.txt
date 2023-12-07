@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-12-06T00:35:17.289Z
+! Last modified: 2023-12-07T00:34:43.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2385,6 +2385,7 @@
 ||collector.scopely.io^
 ||data-sharing-consent.aprod.scopely.io^
 ||preview-collector.scopely.io^
+||adserve.tv^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2448,9 +2449,7 @@
 ||za.zingmp3.vn^
 ||zlog.zingmp3.vn^
 ||log.zingnews.vn^
-||za.zingnews.vn^
-||log.zingnews.com.vn^
-||za.zingnews.com.vn^
+||log.znews.vn^
 ||ads-platform.zalo.me^
 ||ads.platform.zalo.me^
 ||button-call.zalo.me^
@@ -141381,6 +141380,7 @@
 ||8vj74.vip^
 ||8vna.com^
 ||8vnd.club^
+||8vnd6.com^
 ||8vnd7.com^
 ||8vnr.com^
 ||8vns8.com^
@@ -151782,6 +151782,8 @@
 ||api.btyseo.com^
 ||api.c5l1t57.site^
 ||api.dodo.51yipo.com^
+||api.dodo.bet23af.com^
+||api.dodo.djync.net^
 ||api.hb88a.com^
 ||api.hb88h.com^
 ||api.hubtop88.net^
@@ -191871,6 +191873,7 @@
 ||naisili.com^
 ||naka689.com^
 ||nakukop.com^
+||naming.djync.net^
 ||naming.win133.me^
 ||nang4.com^
 ||nang9.com^
@@ -195191,6 +195194,7 @@
 ||play-gooogle-com.cosmicalienslot.top^
 ||play-wetten.com^
 ||play.gameric.win^
+||play.googlellplay.com^
 ||play.vn-apps-google.com^
 ||play.zikvip.com^
 ||play10pinas.live^
@@ -218687,6 +218691,7 @@
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
+||dichvucong.tgovn.cc^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -218839,6 +218844,7 @@
 ||ff-menber-garena.vn^
 ||ff-menbershipgarena.com^
 ||ff.member.garenae.vn^
+||ff.memberships-garena.id.vn^
 ||ffgarena-membeship.com^
 ||ffgarenavongquay.xyz^
 ||ffmemberrship-garena.com^
@@ -219079,6 +219085,7 @@
 ||herihed.cfd^
 ||hethongbank.com^
 ||hethongbank24h.com^
+||hethongbhx.com^
 ||hethonggiaodichvidientu247.com^
 ||hethongquatang.vn^
 ||hethongviet99.com^
@@ -219445,6 +219452,7 @@
 ||loginame.shop^
 ||long-thanh.com^
 ||lookctv-vn.com^
+||looklazada.com^
 ||lotomomo.com^
 ||lotte.cm66llks.top^
 ||lotte333.com^
@@ -220068,6 +220076,7 @@
 ||phimhaykiemtien24h.com^
 ||phlazada.vip^
 ||phomuabannhadat.com^
+||phone.didongvietstore.com^
 ||phpmyvpbbank.com^
 ||phukienmaxpro.store^
 ||pi81.shop^
@@ -221053,6 +221062,7 @@
 ||tikishop.shop^
 ||tikishop.top^
 ||tikishop.vip^
+||tikishop.ws^
 ||tikishop6.com^
 ||tikishopping.shop^
 ||tikita-kasi55.xyz^
