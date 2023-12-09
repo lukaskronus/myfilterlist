@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-12-08T00:35:16.849Z
+! Last modified: 2023-12-09T00:34:14.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1873,6 +1873,9 @@
 ||nmetrics.samsung.com^
 ||smetrics.samsung.com^
 ||target-us.samsung.com^
+||analytics.bigdata.samsung.com^
+||adconsent.samsungrs.com^
+||sspapi-prd.samsungrs.com^
 ||nc0.co^
 ||reactful.com^
 ||adstatic.com^
@@ -2222,6 +2225,7 @@
 ||ads.livetv703.me^
 ||ads.livetv705.me^
 ||ads.livetv708.me^
+||ads.livetv723.me^
 ||company-target.com^
 ||antillephone.com^
 ||intake-analytics.wikimedia.org^
@@ -2386,6 +2390,7 @@
 ||data-sharing-consent.aprod.scopely.io^
 ||preview-collector.scopely.io^
 ||adserve.tv^
+||wtg-ads.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2450,6 +2455,10 @@
 ||zlog.zingmp3.vn^
 ||log.zingnews.vn^
 ||log.znews.vn^
+||trackingbr.zingplay.com^
+||trackingin.zingplay.com^
+||trackingsea.zingplay.com^
+||trackingvn.zingplay.com^
 ||ads-platform.zalo.me^
 ||ads.platform.zalo.me^
 ||button-call.zalo.me^
@@ -2830,6 +2839,7 @@
 ||vipads.cc^
 ||kernh41.com^
 ||realclick.vn^
+||admon.com.vn^
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -2899,6 +2909,7 @@
 ||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
 ||ads.thitruongtaichinhtiente.vn^
+||ads.thvli.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
 ||ads.vishare.vn^
@@ -3063,15 +3074,19 @@
 ||affiliate.chiaki.vn^
 ||alexajstrack.com^
 ||analytic.baodantoc.vn^
+||analytic.thuanbui.me^
 ||analytic.vnanet.vn^
-||analytics.admon.com.vn^
 ||analytics.aita.gov.vn^
+||analytics.amedigital.vn^
 ||analytics.bachtuongphat.com^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
 ||analytics.diamondstarfinancial.com.vn^
+||analytics.digi8.vn^
 ||analytics.evgcdn.net^
 ||analytics.fsoft.com.vn^
+||analytics.gotama.link^
+||analytics.hapo.vn^
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
@@ -3220,6 +3235,7 @@
 ||newlog.daidoanket.vn^
 ||newlog.tapchitaichinh.vn^
 ||nstat.headlines.pw^
+||plausible.vucar.vn^
 ||production-tracking.riviu.co^
 ||proof.sudo.vn^
 ||px.saostar.vn^
@@ -3272,6 +3288,7 @@
 ||track.lapa.pub^
 ||track.lemonnovel.com^
 ||track.pnj.com.vn^
+||track.popsww.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
 ||tracker.anime47.com^
@@ -3298,9 +3315,8 @@
 ||tracking.vegaid.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.viez.vn^
 ||trackingapi.foody.vn^
-||trackingsea.zingplay.com^
-||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
 ||traffic.vietnhan.co^
 ||trk.123c.vn^
@@ -3428,6 +3444,7 @@
 ||ac.rnm.ca^
 ||acacdn.com^
 ||acbbpadizl.com^
+||accidentallyrussian.com^
 ||accomplicepeach.com^
 ||acdcdn.com^
 ||acduyqwnz.com^
@@ -4806,6 +4823,7 @@
 ||bfijteodglun.com^
 ||bg4nxu2u5t.com^
 ||bhalukecky.com^
+||bharalhallahs.com^
 ||bhbtmipjiqn.com^
 ||bhcumsc.com^
 ||bhofavwigram.com^
@@ -4941,6 +4959,7 @@
 ||bravobusboy.com^
 ||brazenwholly.com^
 ||breakupbun.com^
+||breathelicense.com^
 ||brechtembrowd.com^
 ||breedwaste.com^
 ||briarsbarrer.guru^
@@ -5799,6 +5818,7 @@
 ||dxgo95ahe73e8.cloudfront.net^
 ||dyeingjaun.com^
 ||dynamicadx.com^
+||dynspt.com^
 ||dyntrk.com^
 ||dzienkudrow.com^
 ||dzuowpapvcu.com^
@@ -6159,6 +6179,7 @@
 ||forex-affiliate.net^
 ||forgerylimit.com^
 ||forgiemaulvi.com^
+||formalitydetached.com^
 ||formssalvagelistless.com^
 ||forshrd.com^
 ||forsungprosode.com^
@@ -6169,6 +6190,7 @@
 ||fountainsuperior.com^
 ||fourarithmetic.com^
 ||foutyoxyaena.website^
+||foxpush.com^
 ||fpmleqdb.com^
 ||fpujadwzowa.com^
 ||fpukxcinlf.com^
@@ -6516,6 +6538,7 @@
 ||herdcowhas.icu^
 ||heresjokey.com^
 ||heroinslagunes.com^
+||herynore.com^
 ||hesitationvariationscanal.com^
 ||heukpiroot.com^
 ||hewawkward.com^
@@ -6672,6 +6695,7 @@
 ||iberiavihuela.guru^
 ||iclickcdn.com^
 ||iconadserver.com^
+||iconcardinal.com^
 ||icptrack.com^
 ||icyattestation.com^
 ||idcounter.com^
@@ -6997,6 +7021,7 @@
 ||kildirombo.com^
 ||kindads.com^
 ||kindleaimingbase.com^
+||kindledownstairsskeleton.com^
 ||kindly-face.pro^
 ||king3rsc7ol9e3ge.com^
 ||kinhincauking.website^
@@ -8964,6 +8989,7 @@
 ||shubad2u8ba09.com^
 ||shulskerbaya.top^
 ||shyhuetub.site^
+||sibautomation.com^
 ||siccash.com^
 ||sickflock.com^
 ||sicksmash.com^
@@ -9089,6 +9115,7 @@
 ||sparkstudios.com^
 ||spathalbarmie.com^
 ||speakspurink.com^
+||special.beatifulllhistory.com^
 ||specially4u.net^
 ||specialstatement.com^
 ||specificmedia.co.uk^
@@ -9122,6 +9149,7 @@
 ||spotx.tv^
 ||sppzkqnk9.com^
 ||springaftermath.com^
+||springserve.com^
 ||spruecutworm.com^
 ||sprungencase.com^
 ||spurioussteam.com^
@@ -9138,7 +9166,6 @@
 ||srodicham.com^
 ||srv.tunefindforfans.com^
 ||srwww1.com^
-||sspapi-prd.samsungrs.com^
 ||ssqyuvavse.com^
 ||stagepopkek.com^
 ||stagroam.net^
@@ -9195,6 +9222,7 @@
 ||stickssheep.com^
 ||stihruojvag.com^
 ||stingyshoe.com^
+||stinicf.com^
 ||stogivpi.com^
 ||stolenforensicssausage.com^
 ||stootsou.net^
@@ -9498,6 +9526,7 @@
 ||tomeleafs.com^
 ||tonicliquidoversight.com^
 ||toothbrushnote.com^
+||tooyeobui.mom^
 ||top-advertise.com^
 ||top-casting-termine.de^
 ||top-site-list.com^
@@ -9616,6 +9645,7 @@
 ||truehits.net^
 ||trumpia.com^
 ||trustaffs.com^
+||trustbummler.com^
 ||trustedcpmrevenue.com^
 ||trustedgatetocontent.com^
 ||trustednotice.news^
@@ -9623,6 +9653,7 @@
 ||trustlearningclearly.com^
 ||truthful-quote.pro^
 ||tsiwqtng8huauw30n.com^
+||tstats-13fkh44r.com^
 ||tsyndolls.com^
 ||ttgmjfgldgv9ed10.com^
 ||ttl9e3r0i.com^
@@ -9668,6 +9699,7 @@
 ||tzuhumrwypw.com^
 ||u1pmt.com^
 ||u40cc3twb.com^
+||u9axpzf50.com^
 ||uarating.com^
 ||ubbfpm.com^
 ||uberads.com^
@@ -9745,6 +9777,7 @@
 ||upskittyan.com^
 ||upsnap.com^
 ||upspinarakor.com^
+||uptimecdn.com^
 ||uptrendsdata.com^
 ||upupoidoutjazz.website^
 ||upwaftssoland.digital^
@@ -10495,6 +10528,7 @@
 ||app.adjust.world^
 ||applog.camera360.com^
 ||appres.camera360.com^
+||arc.io^
 ||asadcdn.com^
 ||asdkd.tutuapp.com^
 ||astat.nikkei.com^
@@ -10634,6 +10668,7 @@
 ||geoplugin.net^
 ||getexceptional.com^
 ||getsitecontrol.com^
+||getstats.org^
 ||gf.umenglog.com^
 ||glanceguide.com^
 ||global.ketchcdn.com^
@@ -10856,6 +10891,7 @@
 ||sc-static.net^
 ||sc.pages03.net^
 ||sdk-monitoring.ogury.co^
+||sdk.conscent.in^
 ||seal.digicert.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
@@ -10889,6 +10925,7 @@
 ||stat.hackedonlinegames.com^
 ||stat.media^
 ||stat.meitudata.com^
+||stat.microvirt.com^
 ||stat2.openinstall.io^
 ||stathat.com^
 ||static.intentarget.com^
@@ -10972,7 +11009,6 @@
 ||track.wattpad.com^
 ||trackcmp.net^
 ||tracker.affirm.com^
-||tracker.arc.io^
 ||tracker.cpmdata.net^
 ||tracker.metricool.com^
 ||tracker.stats.in.th^
@@ -137763,6 +137799,7 @@
 ||87kfff.com^
 ||87kggg.com^
 ||87pwr2.com^
+||87vnd.com^
 ||87yabo.com^
 ||87yh99.com^
 ||87yhdt.com^
@@ -141061,6 +141098,18 @@
 ||8j86.com^
 ||8j8b8o.com^
 ||8jb0.com^
+||8jbet.vin^
+||8jbet01.com^
+||8jbet02.com^
+||8jbet03.com^
+||8jbet04.com^
+||8jbet05.com^
+||8jbet06.com^
+||8jbet07.com^
+||8jbet08.com^
+||8jbet09.com^
+||8jbet10.com^
+||8jbet44.com^
 ||8js82.com^
 ||8js85.com^
 ||8js86.com^
@@ -161873,10 +161922,12 @@
 ||cdkmer.cn^
 ||cdn-1win.xyz^
 ||cdn-mb.com^
+||cdn.6xteam.com^
 ||cdn.gin.bet^
 ||cdn.googlekeycdn.com^
 ||cdn.hg66sdt65nfx64.com^
 ||cdn.sasrepublic.com^
+||cdn2-node-h.tc-cdn.com^
 ||cdnnetworks.net^
 ||cdok8.com^
 ||cdqgq.com^
@@ -162194,6 +162245,7 @@
 ||chengxincaipiao88.com^
 ||chenmotian.vip^
 ||chenyu1008.vip^
+||chessjump.com^
 ||chg0088s.com^
 ||chg999.com^
 ||chh84.com^
@@ -177205,6 +177257,7 @@
 ||images.6929183.com^
 ||images.847830.com^
 ||images.b141847.com^
+||images.b332411.com^
 ||images.b51613.com^
 ||images.b728484.com^
 ||imawqskie.com^
@@ -177263,6 +177316,7 @@
 ||inoj.vip^
 ||inosutj.xyz^
 ||inplay.com.ph^
+||inrlink01.com^
 ||insbet.com^
 ||insstop.xyz^
 ||instantpay-casino.com^
@@ -180231,6 +180285,11 @@
 ||jods888.vip^
 ||joellovetriciathepoo.com^
 ||jofxh.com^
+||jogolink01.com^
+||jogolink02.com^
+||jogolink03.com^
+||jogolink04.com^
+||jogolink05.com^
 ||jogos1.life^
 ||jogos2.life^
 ||jogos20.live^
@@ -198984,6 +199043,7 @@
 ||sdz15vb1s8rf6dn1fgj8ndty5m1r6dgwae3g3reg1bae.com^
 ||sdzcywgs.com^
 ||se7869.com^
+||sea2-node.tc-cdn.net^
 ||seabeta.xyz^
 ||seamfly.xyz^
 ||seb121.net^
@@ -199825,6 +199885,7 @@
 ||spbxd.win^
 ||spcsp.win^
 ||spec-mostbet.xyz^
+||spectrumexpecdition.online^
 ||spikk.wang^
 ||spin247.com^
 ||spin8.com^
@@ -218121,6 +218182,8 @@
 ||zunlong8.com^
 ||zunlong9.com^
 ||zunvp.com^
+||zuobfe12332voyb.com^
+||zuobfev3421oyb.com^
 ||zuobfevoyb.com^
 ||zuqiujingbo.com^
 ||zuqiuyule.com^
@@ -218567,6 +218630,7 @@
 ||cf222.art^
 ||cgovn.cc^
 ||chamsockhachang.com^
+||chamsockhachhangnanghanmuctindungmsb.com^
 ||chanle79.me^
 ||chanlemmo.com^
 ||chanlemomo.vin^
@@ -218715,7 +218779,9 @@
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
+||dichvucong.hgov.cc^
 ||dichvucong.tgovn.cc^
+||dichvucong.vgovn.net^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -219133,6 +219199,7 @@
 ||hocsinhthanhlich21.xyz^
 ||hoinhiepanhbg.blogspot.com^
 ||hoiquanlq.vn^
+||homecredit1.com^
 ||homevi1.tintuc-vi-vn.xyz^
 ||homevi2.tintuc-vi-vn.xyz^
 ||homevi3.tintuc-vi-vn.xyz^
@@ -219160,6 +219227,7 @@
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
+||hotrokhachhangtindungvietinbank.com^
 ||hotromayxanh.com^
 ||hotronganhang.site^
 ||hotroonline.net^
@@ -219280,6 +219348,7 @@
 ||kfdg22.com^
 ||kfdg55.com^
 ||khangdz215.tk^
+||khcn-tindung-vp.com^
 ||khoanhkhacgiadinhdoantucuoinam.weebly.com^
 ||khoataikhoan-grn-vinhvien.xyz^
 ||khoataikhoangarena.xyz^
@@ -219406,6 +219475,7 @@
 ||lazadax17.com^
 ||lazadaz.xyz^
 ||lazadaz17.com^
+||lazmail.com.vn^
 ||lditsdebriisar.cfd^
 ||ldp.page^
 ||leanhtien.net^
@@ -220332,6 +220402,7 @@
 ||shinhanapp.org^
 ||shinhanbank-khcn.com^
 ||shinhanbank-tindunghanoi.online^
+||shinhanbank.chamsockhachang-the.com^
 ||shinhanbank.info.vn^
 ||shinhanbank.tanghanmucthang11.com.vn^
 ||shinhanbank79.com^
@@ -220800,6 +220871,7 @@
 ||sopper68.com^
 ||sos-icloud.com^
 ||spark123.shop^
+||spohopena.com^
 ||spohopenm.com^
 ||spohopenm.org^
 ||spsinhlychinhhang.com^
@@ -221114,6 +221186,8 @@
 ||tiktokcy1.com^
 ||timivay.com^
 ||timx2918.com^
+||tin-dung-khcn-vib.com^
+||tin-dung-uu-tien-vib.com^
 ||tinbaothuongvn.com^
 ||tinchap-nganhang.online^
 ||tinchap-techcombank.store^
@@ -221145,6 +221219,7 @@
 ||tingiaitrian.com^
 ||tingiovang777.com^
 ||tingiovangvn.com^
+||tinhotnew.com^
 ||tinlequa365.com^
 ||tinlocvang123.com^
 ||tinnhanh24gio.com^
@@ -221540,10 +221615,15 @@
 ||viashopee.com^
 ||viaviet03.mobie.in^
 ||vib-bank.com^
+||vib-tindung-khcn.com^
 ||vib-tindung.click^
 ||vib-tindung.online^
 ||vib-vay.com^
+||vib.chamsockhachang-tructuyen-the.online^
+||vib.chamsockhachang-tructuyen.online^
+||vib.chamsockhachhang-tructuyen-the-visa.com^
 ||vib.mobi^
+||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
 ||vibvay.com^
@@ -221710,9 +221790,11 @@
 ||viettcombank.com^
 ||viettcredit.online^
 ||viettel-store.com^
+||viettel6.com^
 ||vietteldidong.com^
 ||viettelonline.org^
 ||viettelshare.com^
+||viettelvngroup.com^
 ||viettgov.cc^
 ||vietthanh.club^
 ||vietthanh.xyz^
@@ -221753,6 +221835,7 @@
 ||vipshopee.com^
 ||viptikivn.club^
 ||virtuallaughing.com^
+||visa-vpbank-uu-tien.com^
 ||vitienonline88.com^
 ||vitindungpgbank.com^
 ||vitri-icloud.com^
@@ -221841,6 +221924,7 @@
 ||vn55866shp.com^
 ||vn6315shp.com^
 ||vn66733shop.com^
+||vn66954shp.com^
 ||vn6932shp.com^
 ||vn765.com^
 ||vn88khuyenmai.life^
