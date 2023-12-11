@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-12-10T00:37:44.944Z
+! Last modified: 2023-12-11T00:35:51.837Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -175,6 +175,9 @@
 ||ads.yap.yahoo.com^
 ||m.yap.yahoo.com^
 ||adtech.yahooinc.com^
+||jac.yahoosandbox.com^
+||admarketing.yahoo.net^
+||hb.yahoo.net^
 ||ard.yahoo.co.jp^
 ||b90.yahoo.co.jp^
 ||b92.yahoo.co.jp^
@@ -2391,6 +2394,8 @@
 ||preview-collector.scopely.io^
 ||adserve.tv^
 ||wtg-ads.com^
+||stats.shopify.com^
+||v.shopify.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -10648,6 +10653,7 @@
 ||events.jora.com^
 ||events.launchdarkly.com^
 ||events.mapbox.com^
+||events.newsroom.bi^
 ||events.redditmedia.com^
 ||events.shoplytics.com^
 ||events.split.io^
@@ -10876,6 +10882,7 @@
 ||rum-collector.pingdom.net^
 ||rum-static.pingdom.net^
 ||rum.uptime.com^
+||rumt-sg.com^
 ||s.infogram.com^
 ||s.media-imdb.com^
 ||s.ntv.io^
@@ -205739,6 +205746,8 @@
 ||vilaslot.site^
 ||vin168.com^
 ||vin68.com^
+||vin777.blog^
+||vin777.co^
 ||vin777.work^
 ||vin999.fun^
 ||vinalottery.com^
@@ -209508,6 +209517,7 @@
 ||www.68rich.org^
 ||www.79lucky.com^
 ||www.99521xml.com^
+||www.aibai7oog.net^
 ||www.betvietnam.info^
 ||www.cmd368.live^
 ||www.cmd368.net^
