@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-12-11T00:35:51.837Z
+! Last modified: 2023-12-12T00:35:23.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3002,7 +3002,6 @@
 ||lottery.headlines.pw^
 ||marketing.hub-js.com^
 ||media.dabong247.com^
-||mega1.yeah1.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mobileads.dieuviet.com^
@@ -3016,7 +3015,6 @@
 ||qc.kqbd88.com^
 ||qc.mhsolution.vn^
 ||qc.violet.vn^
-||qcao.happyskin.vn^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
 ||quangcao.24h.com.vn^
@@ -3060,7 +3058,6 @@
 ||v9banners.com^
 ||vietbuzzad.com^
 ||vietdorje.com^
-||vinaads.vn^
 ||vipads.live^
 ||vlxx.host^
 ||vnadssb.com^
@@ -3086,7 +3083,6 @@
 ||analytics.bachtuongphat.com^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
-||analytics.diamondstarfinancial.com.vn^
 ||analytics.digi8.vn^
 ||analytics.evgcdn.net^
 ||analytics.fsoft.com.vn^
@@ -3095,7 +3091,6 @@
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
-||analytics.mfocus.vn^
 ||analytics.molistar.com^
 ||analytics.nhattao.com^
 ||analytics.pancake.vn^
@@ -3129,7 +3124,6 @@
 ||counter.24h.com.vn^
 ||counter.ntdvn.com^
 ||counter.ntdvn.net^
-||countervov.emitech.vn^
 ||crm.bizfly.vn^
 ||crm.englishtown.edu.vn^
 ||crmbizfly.todo.vn^
@@ -3159,7 +3153,6 @@
 ||live.careplusvn.com^
 ||live.vnpgroup.net^
 ||liveonline.nhanhoa.com^
-||lmsreport.systems.vn^
 ||log-collector.shopee.vn^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
@@ -3205,10 +3198,7 @@
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
-||log.trithuctructuyen.com.vn^
-||log.trithuctructuyen.vn^
 ||log.tv360.vn^
-||log.vietnamdaily.net.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
 ||log.vneconomy.vn^
@@ -3943,6 +3933,7 @@
 ||ads.roblox.com^
 ||ads.rpgdot.com^
 ||ads.scifi.com^
+||ads.scored.co^
 ||ads.seniorfriendfinder.com^
 ||ads.shizmoo.com^
 ||ads.shopstyle.com^
@@ -134646,6 +134637,7 @@
 ||82i0.com^
 ||82k82.com^
 ||82kjb.com^
+||82vnd.com^
 ||82yabo.com^
 ||830.ee^
 ||83000sc.com^
@@ -174565,6 +174557,7 @@
 ||hipche.xyz^
 ||hiqbipgy.com^
 ||hira88.com^
+||hit.club^
 ||hit1.club^
 ||hit1.co^
 ||hit21.club^
@@ -192160,6 +192153,7 @@
 ||new8800.vip^
 ||new88000.com^
 ||new8801.vip^
+||new88011.com^
 ||new8802.vip^
 ||new8803.com^
 ||new8803.vip^
@@ -195337,6 +195331,7 @@
 ||playgo88.asia^
 ||playgo88.top^
 ||playhereforever.com^
+||playhit.biz^
 ||playiwin.biz^
 ||playiwin.club^
 ||playiwin.in^
