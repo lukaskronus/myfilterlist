@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2023-12-14T00:34:27.580Z
+! Last modified: 2023-12-15T00:35:36.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -171715,6 +171715,7 @@
 ||gvfgs.com^
 ||gvfs2.vip^
 ||gvfytm.com^
+||gviralnews.com^
 ||gvn3.com^
 ||gvntj.com^
 ||gvprv.com^
@@ -206296,6 +206297,7 @@
 ||vn111aa.net^
 ||vn123.me^
 ||vn123456.com^
+||vn123ab.com^
 ||vn1289.com^
 ||vn1290.com^
 ||vn12b.com^
