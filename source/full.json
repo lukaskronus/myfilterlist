@@ -23,5 +23,5 @@
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],
-  "exclusions_sources": ["https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt","https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt"]
+  "exclusions_sources": ["https://raw.githubusercontent.com/zoonderkins/blahdns/master/hosts/whitelist.txt"]
 }
