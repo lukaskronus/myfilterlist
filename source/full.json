@@ -20,6 +20,11 @@
       "name": "mullvad privacy",
       "source": "https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_privacy.txt",
       "type": "hosts"
+    },
+    {
+      "name": "EasyPrivacy",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt",
+      "type": "adblock"
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate"],
