@@ -4,7 +4,7 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/hostsvn.txt",
         "Base Output Filename": "hostsvn-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-01-08T00:36:13.007Z",
+            "Last Modified": "2024-01-08T02:05:34.985Z",
             "Title": "HostsVN Compiled"
         },
         "Conversion": [
@@ -47,13 +47,13 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/filter.txt",
         "Base Output Filename": "filter-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-01-08T00:40:40.170Z",
+            "Last Modified": "2024-01-08T02:10:20.239Z",
             "Title": "Full list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                538482
+                539915
             ],
             [
                 "Comment Lines",
@@ -61,11 +61,11 @@
             ],
             [
                 "Empty Lines",
-                221
+                215
             ],
             [
                 "Non-Domain-only Rules Excluded",
-                811
+                851
             ],
             [
                 "Domain-only Rules Excluded (unsupported options)",
@@ -73,17 +73,17 @@
             ],
             [
                 "Domain-only Rules Excluded (exception conflict)",
-                62
+                70
             ],
             [
                 "Domain-only Rules Output",
-                537600
+                538985
             ]
         ],
         "Output Formats": {
             "Just Domains": "filter-justdomains.txt"
         },
-        "Domains Output": 537600
+        "Domains Output": 538985
     },
     {
         "Title": "Extra list",
@@ -133,13 +133,13 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/cf.txt",
         "Base Output Filename": "cloudflare-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-01-08T00:43:09.064Z",
+            "Last Modified": "2024-01-08T02:11:53.935Z",
             "Title": "Cloudflare"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                241189
+                166414
             ],
             [
                 "Comment Lines",
@@ -147,11 +147,11 @@
             ],
             [
                 "Empty Lines",
-                215
+                209
             ],
             [
                 "Non-Domain-only Rules Excluded",
-                805
+                845
             ],
             [
                 "Domain-only Rules Excluded (unsupported options)",
@@ -159,16 +159,16 @@
             ],
             [
                 "Domain-only Rules Excluded (exception conflict)",
-                62
+                70
             ],
             [
                 "Domain-only Rules Output",
-                240313
+                165490
             ]
         ],
         "Output Formats": {
             "Just Domains": "cloudflare-justdomains.txt"
         },
-        "Domains Output": 240313
+        "Domains Output": 165490
     }
 ]
