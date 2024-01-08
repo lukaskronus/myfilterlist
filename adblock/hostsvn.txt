@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2024-01-07T00:38:24.065Z
+! Last modified: 2024-01-08T00:36:13.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1108,6 +1108,7 @@
 ||exrtbsrv.com^
 ||optad360.io^
 ||optad360.com^
+||optad360.net^
 ||themoneytizer.com^
 ||stat-rock.com^
 ||sail-horizon.com^
@@ -1204,6 +1205,7 @@
 ||relap.io^
 ||gaug.es^
 ||realsrv.com^
+||realsrvcdn.com^
 ||vivaclix.com^
 ||advangelists.com^
 ||smrtb.com^
@@ -1535,6 +1537,7 @@
 ||truepush.com^
 ||ambientdsp.cachefly.net^
 ||flurry.cachefly.net^
+||gamma.cachefly.net^
 ||idealmedia.io^
 ||ezmob.com^
 ||cdnaz.win^
@@ -1996,7 +1999,6 @@
 ||adinsight.co.kr^
 ||amgdgt.com^
 ||zeotap.com^
-||web1s.com^
 ||intentiq.com^
 ||ad.jia.360.cn^
 ||g.s.360.cn^
@@ -2400,6 +2402,8 @@
 ||v.shopify.com^
 ||litvp.com^
 ||labadena.com^
+||aff-online.com^
+||aff-track.net^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2757,6 +2761,7 @@
 ||metaconex.io^
 ||boxpr.aiservice.vn^
 ||js.aiservice.vn^
+||lio.aiservice.vn^
 ||nspapi.aiservice.vn^
 ||rec.aiservice.vn^
 ||analytics.saas-vn.network^
@@ -2849,6 +2854,7 @@
 ||vipads.cc^
 ||kernh41.com^
 ||realclick.vn^
+||distinctrobin.com^
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -2927,6 +2933,7 @@
 ||ads.xedoisong.vn^
 ||ads.xemphimso.com^
 ||ads.xemtivisohd.net^
+||ads.zunia.vn^
 ||ads1.careerbuilder.vn^
 ||ads8.fpt.vn^
 ||adserver.lag.vn^
@@ -2995,10 +3002,10 @@
 ||dt.vnecdn.com^
 ||duamilsyr.com^
 ||financial-agent.headlines.pw^
-||gamma.cachefly.net^
 ||go.vnecdn.com^
 ||hexapinow.xyz^
 ||iads.staticscdn.net^
+||iads.vision^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||k8trangphim.com^
@@ -4549,6 +4556,7 @@
 ||aulteeby.net^
 ||ausoafab.net^
 ||autchoog.net^
+||autjaetpxhj.com^
 ||auto-bannertausch.de^
 ||autohits.dk^
 ||automaticflock.com^
@@ -5470,6 +5478,7 @@
 ||cyberbounty.com^
 ||cybermonitor.com^
 ||cycledaction.com^
+||cyjprljyvgqeg.com^
 ||cynes-gwf.com^
 ||czyazwvifoxc.com^
 ||d11enq2rymy0yl.cloudfront.net^
@@ -103758,6 +103767,7 @@
 ||558888a.com^
 ||558888c.com^
 ||558888d.com^
+||55888slot.com^
 ||558895.com^
 ||55889x.com^
 ||5588dabao.com^
@@ -121744,6 +121754,7 @@
 ||7788848.com^
 ||778888888.com^
 ||778888w.com^
+||77888slot.com^
 ||77888web.com^
 ||7788904.com^
 ||7788930.com^
@@ -130566,6 +130577,10 @@
 ||888mb.vip^
 ||888qp66.com^
 ||888s1xbet.com^
+||888slot00.com^
+||888slot025.com^
+||888slot11.com^
+||888slot116.com^
 ||888sport.it^
 ||888starz-1b.bet^
 ||888starz-2b.bet^
@@ -140975,7 +140990,6 @@
 ||afagent6888.com^
 ||afaieaavuw.com^
 ||afejt723.com^
-||aff-online.com^
 ||aff-register.smart-complex.live^
 ||aff-winlotto4d99.com^
 ||aff.therich888.net^
@@ -142202,6 +142216,7 @@
 ||aupai.site^
 ||aurabet88.com^
 ||aurazs.com^
+||authen.vua2-ldp.com^
 ||auto-pgslot.com^
 ||auto.lnwshark.com^
 ||autoplay365.com^
@@ -146450,6 +146465,7 @@
 ||bigleaguekr.com^
 ||bigmatch2win.com^
 ||bigmatch88.com^
+||bignumberfalling.com^
 ||bigowinn.com^
 ||bigwcbw380.com^
 ||bigwin33.online^
@@ -151574,6 +151590,7 @@
 ||choifun88.net^
 ||choigame88.com^
 ||choigame90.com^
+||choigamevua.club^
 ||choigiaitri.net^
 ||choihay.vip^
 ||choihitclub.fun^
@@ -152485,6 +152502,7 @@
 ||csj8855.com^
 ||csj8866.com^
 ||csj8877.com^
+||cskh.vua2-ldp.com^
 ||cslm001.com^
 ||cslm002.com^
 ||cslm003.com^
@@ -156579,6 +156597,7 @@
 ||favor88.com^
 ||fawqt.com^
 ||fayuan04.com^
+||fb.vua2-ldp.com^
 ||fb365soccer.com^
 ||fb365sp.com^
 ||fb365sports.com^
@@ -160107,6 +160126,7 @@
 ||grk3a.com^
 ||grk4.net^
 ||grokc.site^
+||group.vua2-ldp.com^
 ||groupteamnames.com^
 ||growice.xyz^
 ||grvwy.com^
@@ -163820,6 +163840,7 @@
 ||ho518.net^
 ||hoabanh.com^
 ||hoabanh88.com^
+||hoacoomay.com^
 ||hoahao.vip^
 ||hoappasla.com^
 ||hoho724.com^
@@ -175373,6 +175394,7 @@
 ||lo88.vin^
 ||lob2pgoiqq.vip^
 ||lobby.ufathai.com^
+||lobby.vua2-ldp.com^
 ||loc789.club^
 ||loc88.fun^
 ||loc89.fun^
@@ -178660,6 +178682,7 @@
 ||mzbw9.com^
 ||mzc88.com^
 ||mzmz5.com^
+||mzn.vip789621.com^
 ||mzv8y.com^
 ||mzw166.com^
 ||mzw1660.net^
@@ -192911,6 +192934,8 @@
 ||vu5sp.com^
 ||vua1004.club^
 ||vua1005.club^
+||vua2.club^
+||vua69.com^
 ||vua88.club^
 ||vuabai9.com^
 ||vuabai999.com^
@@ -195493,6 +195518,13 @@
 ||www.365wmvip3073.com^
 ||www.68rich.org^
 ||www.79lucky.com^
+||www.888slot07.com^
+||www.888slot22.com^
+||www.888slot33.com^
+||www.888slot44.com^
+||www.888slot66.com^
+||www.888slot77.com^
+||www.888slot99.com^
 ||www.betvietnam.info^
 ||www.cmd368.live^
 ||www.cmd368.online^
@@ -203802,6 +203834,7 @@
 ||drakeesh.com^
 ||dtcltx.com^
 ||dtdvmuadong-lienquan.com^
+||duchessefit.com^
 ||duthithanhlich2021.weebly.com^
 ||duyendangaodaivietnam2021.weebly.com^
 ||dvdienmayxanh.com^
