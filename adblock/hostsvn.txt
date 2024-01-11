@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2024-01-10T00:35:52.604Z
+! Last modified: 2024-01-11T00:35:30.518Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2404,6 +2404,7 @@
 ||labadena.com^
 ||aff-online.com^
 ||aff-track.net^
+||event.dfinery.io^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2554,6 +2555,8 @@
 ||tracking.api.media.zapps.vn^
 ||za.zapps.vn^
 ||zplayer.trk.zapps.vn^
+||analytics.zapps.me^
+||tech.zapps.me^
 ||yomedia.vn^
 ||pinetech.vn^
 ||cleverads.vn^
@@ -3194,6 +3197,7 @@
 ||log.kaka.me^
 ||log.kienthuc.net.vn^
 ||log.kinhtedouong.vn^
+||log.lichviet.org^
 ||log.mekongasean.vn^
 ||log.ngaynay.vn^
 ||log.nhandan.vn^
@@ -3237,6 +3241,7 @@
 ||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
+||measure.vndirect.com.vn^
 ||mkt.hoanghamobile.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
@@ -3256,6 +3261,7 @@
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s6.textlink.vn^
+||sentry.mediacdn.vn^
 ||smetrics.kone.vn^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
@@ -3278,7 +3284,6 @@
 ||sv-api-event.headlines.pw^
 ||ta.toprework.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
-||tech.zapps.me^
 ||thongke.24h.com.vn^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
@@ -195789,6 +195794,7 @@
 ||wzqmn.com^
 ||wzv5v.com^
 ||wzwzvip.com^
+||x-hay88.com^
 ||x-oauth.com^
 ||x0004.com^
 ||x0025.com^
@@ -203359,6 +203365,7 @@
 ||247bank-ing.com^
 ||247napas.com^
 ||247vi-bank.com^
+||24h.c0m.ltd^
 ||24hmoneygram.weebly.com^
 ||24plexus.com^
 ||2phutkiemtien.com^
@@ -203890,6 +203897,7 @@
 ||expressmoney.cc^
 ||facabook.id.vn^
 ||face-book.co^
+||facebook.c0m.ltd^
 ||facebookk.life^
 ||facebookvni.com^
 ||faecbooks.com^
@@ -203910,6 +203918,7 @@
 ||fe-shop.cc^
 ||fe.lwcvn.com^
 ||feacbookk.com^
+||fecabookk.com^
 ||ff-garena-membership-2021.com^
 ||ff-garena-membershipff.com^
 ||ff-garena-sukien.com^
@@ -207243,6 +207252,7 @@
 ||yeumomo.me^
 ||yl0sj9.cyou^
 ||ymx33.com^
+||youtuber-cash.buzz^
 ||yunduofei.xyz^
 ||zalorashop.com^
 ||zeroshop.cc^
