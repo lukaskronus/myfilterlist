@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2024-01-16T00:35:20.088Z
+! Last modified: 2024-01-17T00:35:30.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -142935,6 +142935,7 @@
 ||b2898.com^
 ||b28w.com^
 ||b29.bet^
+||b29.cafe^
 ||b2900.com^
 ||b290902.com^
 ||b292838.com^
@@ -143662,6 +143663,7 @@
 ||b68y6.com^
 ||b68y7.com^
 ||b69.bet^
+||b69.cafe^
 ||b69.city^
 ||b6912.com^
 ||b6919.com^
@@ -188004,9 +188006,11 @@
 ||taiappj9.com^
 ||taiappk8.com^
 ||taib29.bet^
+||taib29.cafe^
 ||taib52.club^
 ||taib52.com^
 ||taib52.vin^
+||taib69.cafe^
 ||taibayvip.fun^
 ||taibigwinner.info^
 ||taiboc.fun^
@@ -204164,6 +204168,7 @@
 ||file-store4.xyz^
 ||finashope.com^
 ||findiphone.mobi^
+||findmy-status.com^
 ||findprizesplace.life^
 ||finshope.com^
 ||first-vay.com^
