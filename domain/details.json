@@ -4,7 +4,7 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/hostsvn.txt",
         "Base Output Filename": "hostsvn-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-01-19T00:35:49.782Z",
+            "Last Modified": "2024-01-20T00:35:03.600Z",
             "Title": "HostsVN Compiled"
         },
         "Conversion": [
@@ -47,13 +47,13 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/filter.txt",
         "Base Output Filename": "filter-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-01-19T00:40:42.000Z",
+            "Last Modified": "2024-01-20T00:40:00.416Z",
             "Title": "Full list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                545099
+                545565
             ],
             [
                 "Comment Lines",
@@ -61,11 +61,11 @@
             ],
             [
                 "Empty Lines",
-                219
+                221
             ],
             [
                 "Non-Domain-only Rules Excluded",
-                861
+                863
             ],
             [
                 "Domain-only Rules Excluded (unsupported options)",
@@ -77,13 +77,13 @@
             ],
             [
                 "Domain-only Rules Output",
-                544156
+                544620
             ]
         ],
         "Output Formats": {
             "Just Domains": "filter-justdomains.txt"
         },
-        "Domains Output": 544156
+        "Domains Output": 544620
     },
     {
         "Title": "Extra list",
@@ -133,13 +133,13 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/cf.txt",
         "Base Output Filename": "cloudflare-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-01-19T00:42:08.876Z",
+            "Last Modified": "2024-01-20T00:41:28.489Z",
             "Title": "Cloudflare"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                163964
+                164051
             ],
             [
                 "Comment Lines",
@@ -147,11 +147,11 @@
             ],
             [
                 "Empty Lines",
-                213
+                215
             ],
             [
                 "Non-Domain-only Rules Excluded",
-                855
+                857
             ],
             [
                 "Domain-only Rules Excluded (unsupported options)",
@@ -163,12 +163,12 @@
             ],
             [
                 "Domain-only Rules Output",
-                163029
+                163114
             ]
         ],
         "Output Formats": {
             "Just Domains": "cloudflare-justdomains.txt"
         },
-        "Domains Output": 163029
+        "Domains Output": 163114
     }
 ]
