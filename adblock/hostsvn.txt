@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2024-01-21T00:38:47.829Z
+! Last modified: 2024-01-22T00:37:18.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -10766,7 +10766,6 @@
 ||rum-collector.pingdom.net^
 ||rum-static.pingdom.net^
 ||rum.uptime.com^
-||rumt-sg.com^
 ||s.infogram.com^
 ||s.media-imdb.com^
 ||s.ntv.io^
@@ -204092,6 +204091,7 @@
 ||egiontheh.cfd^
 ||egt091102205euc.click^
 ||egt091102207euc.click^
+||email-apple.support^
 ||emodernst.cfd^
 ||emoney2017.com^
 ||emoneyspace.com^
@@ -204503,6 +204503,7 @@
 ||ibankingshopee.vn^
 ||ibkbank.net^
 ||ibmgroup.co.uk^
+||icloud.support^
 ||icloudvi.com^
 ||id-icloud.com^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -204784,6 +204785,7 @@
 ||locabank.vn^
 ||locmomo.com^
 ||login-applecare.com^
+||login-icloud.com^
 ||loginame.shop^
 ||long-thanh.com^
 ||lookctv-vn.com^
