@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2024-02-01T00:35:02.430Z
+! Last modified: 2024-02-02T00:33:28.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2409,6 +2409,7 @@
 ||collect.banggood.com^
 ||dc.banggood.com^
 ||web-device-id.banggood.com^
+||mtgglobals.com^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -2685,6 +2686,7 @@
 ||mautic.thietkexaynhadep.vn^
 ||mautic.vmax.vn^
 ||piwik.rta.vn^
+||piwik.softonic.vn^
 ||piwik.tienhiep.com.vn^
 ||ad.accesstrade.vn^
 ||partner.accesstrade.vn^
@@ -3984,6 +3986,7 @@
 ||ads.usatoday.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
+||ads.videy.co^
 ||ads.virtual-nights.com^
 ||ads.virtualcountries.com^
 ||ads.vnd89.com^
@@ -10556,6 +10559,7 @@
 ||firsthive.com^
 ||flagcounter.com^
 ||fo.iemiq.com^
+||fpcdn.io^
 ||fpnpmcdn.net^
 ||front.optimonk.com^
 ||fullstory.com^
@@ -10808,6 +10812,7 @@
 ||soflopxl.com^
 ||soidc.com^
 ||soperson.com^
+||spysubstance.com^
 ||srmdata.com^
 ||ssm.codes^
 ||st.top100.ru^
@@ -10832,6 +10837,7 @@
 ||stats.pornpics.com^
 ||stats.pusher.com^
 ||stats.searchftps.net^
+||stats.symptoma.com^
 ||stats.unlimapps.com^
 ||stats.vk-portal.net^
 ||stats.wp.com^
@@ -10850,6 +10856,7 @@
 ||t.dailymail.co.uk^
 ||t.dtscdn.com^
 ||t.eloqua.com^
+||t.firstpromoter.com^
 ||t.freelancer.com^
 ||tag.imagino.com^
 ||tag.wknd.ai^
@@ -183674,6 +183681,7 @@
 ||qu6298.site^
 ||quacauvong.com^
 ||qualityplatforms.com^
+||quangcaosanvip.com^
 ||quangcaosanvip.win^
 ||quangfgg353.com^
 ||quanguocai.com^
@@ -185427,6 +185435,7 @@
 ||sanjiu88.com^
 ||sanos.fun^
 ||sanuk88.com^
+||sanvip.club^
 ||saoma.bet^
 ||sapg88.com^
 ||sapphirebet.com^
@@ -186346,6 +186355,7 @@
 ||sky88k.com^
 ||sky88vao.club^
 ||skycasino.com^
+||skyclub.bid^
 ||skyclub.city^
 ||skyclub.mobi^
 ||skyclubpoker-default-rtdb.asia-southeast1.firebasedatabase.app^
@@ -186601,6 +186611,7 @@
 ||spin8.com^
 ||spinbertuah.com^
 ||spincasino.com^
+||sping369.club^
 ||spingalaxy.com^
 ||spinmc.xyz^
 ||spinsamurai.com^
@@ -188078,6 +188089,7 @@
 ||taiqqlive.pro^
 ||tais7.top^
 ||tais7.vip^
+||taisanvip.net^
 ||taishangjunjun.com^
 ||taiskyclub.online^
 ||taisum.ac^
@@ -203662,6 +203674,7 @@
 ||aets88.com^
 ||aets99.com^
 ||agrib-vn.com^
+||agribank.dangkyungtuyen.com^
 ||agribank.info^
 ||agribanking.com.vn^
 ||agribanks.link^
@@ -203694,6 +203707,7 @@
 ||almofmultiple.cfd^
 ||alovay24h.com^
 ||ama-zmart.top^
+||amajwzon456.top^
 ||amazon.amazonptj.com^
 ||amazonbig.asia^
 ||amazonsg.shop^
@@ -203768,6 +203782,7 @@
 ||baosaoviet24h.net^
 ||baotienphong.net^
 ||baotrixanhvn.com^
+||baoviet-vn.cc^
 ||barbecueappledos.pw^
 ||bb9998.com^
 ||bbankpower.com^
@@ -203941,6 +203956,7 @@
 ||crestfidubank.com^
 ||cryptominexchange.com^
 ||cryptooexchange.xyz^
+||cskh-ca-nhan-vpbank.com^
 ||cskh-dienmay-xanh.com^
 ||cskh-dienmayxanhvn.com^
 ||cskh-the-vpbank.com^
@@ -204007,6 +204023,7 @@
 ||dich-vu-the-ez-vpbank.com^
 ||dich-vu-the-vdiamond-vpbank.com^
 ||dich-vu-the-vvip-vpb.com^
+||dich-vu-update-vpbank.com^
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
@@ -204112,6 +204129,7 @@
 ||eqav77.com^
 ||ergyfrommo.cfd^
 ||eserbank.com^
+||etkf44.com^
 ||eulo11.com^
 ||eulo99.com^
 ||evay.info^
@@ -204666,6 +204684,7 @@
 ||lazada-sale.gq^
 ||lazada-task.cc^
 ||lazada.bet^
+||lazada.gg^
 ||lazada.website^
 ||lazada1.cc^
 ||lazada1.com^
@@ -205086,6 +205105,7 @@
 ||myshopee7.vip^
 ||mysp.ac^
 ||nalhajarm.cfd^
+||nang-cap-hang-vvip-vib.com^
 ||nang-cap-online-vpbank.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
@@ -205396,6 +205416,7 @@
 ||oughtme.cfd^
 ||oundandk.cfd^
 ||oylg7.com^
+||p63899vn.com^
 ||pagelazada.com^
 ||panyruld.cfd^
 ||paylienquan.club^
@@ -207113,6 +207134,7 @@
 ||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
+||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
 ||vip8591.net^
