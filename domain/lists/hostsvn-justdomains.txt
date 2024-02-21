@@ -1297,6 +1297,7 @@ wkclick.baidu.com
 wkctj.baidu.com
 hm.baidu.com
 mobads.baidu.com
+pos.baidu.com
 cpro.baidustatic.com
 dup.baidustatic.com
 appier.net
@@ -1813,7 +1814,6 @@ collector-16238.us.tvsquared.com
 imrworldwide.com
 rezync.com
 p-n.io
-cdn.optimizely.com
 log.optimizely.com
 logx.optimizely.com
 collect.data.tm-awx.com
@@ -1997,10 +1997,15 @@ adinsight.co.kr
 amgdgt.com
 zeotap.com
 intentiq.com
+ad.dev.360.cn
+ad.gamebox.360.cn
 ad.jia.360.cn
-g.s.360.cn
-p.s.360.cn
-sdk.s.360.cn
+c.sayhi.360.cn
+s.union.360.cn
+stat.m.360.cn
+s.360.cn
+stat.e.tf.360.cn
+tracking.v.tf.360.cn
 p16-ad.byteoversea.com
 v16-ad.byteoversea.com
 lift.acquia.com
@@ -2413,6 +2418,8 @@ gonet-ads.com
 upravel.com
 aidata.io
 arcspire.io
+tanx.com
+mediav.com
 adtimaserver.vn
 eclick.vn
 admicro.vn
@@ -8044,7 +8051,6 @@ ozongees.com
 ozqoztrkoaj.com
 ozsoekwgy.com
 ozwvkazrik.com
-p.tanx.com
 p4r24.eu
 pacekami.com
 padp5arja8dgsd9cha.com
