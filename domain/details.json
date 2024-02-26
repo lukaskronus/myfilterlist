@@ -4,7 +4,7 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/hostsvn.txt",
         "Base Output Filename": "hostsvn-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-02-25T00:36:09.026Z",
+            "Last Modified": "2024-02-26T00:34:47.399Z",
             "Title": "HostsVN Compiled"
         },
         "Conversion": [
@@ -47,13 +47,13 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/filter.txt",
         "Base Output Filename": "filter-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-02-25T00:40:40.600Z",
+            "Last Modified": "2024-02-26T00:39:11.333Z",
             "Title": "Full list"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                503613
+                501148
             ],
             [
                 "Comment Lines",
@@ -77,13 +77,13 @@
             ],
             [
                 "Domain-only Rules Output",
-                502691
+                500226
             ]
         ],
         "Output Formats": {
             "Just Domains": "filter-justdomains.txt"
         },
-        "Domains Output": 502691
+        "Domains Output": 500226
     },
     {
         "Title": "Extra list",
@@ -133,13 +133,13 @@
         "Source": "file:///home/runner/work/myfilterlist/myfilterlist/adblock/cf.txt",
         "Base Output Filename": "cloudflare-{FORMAT}.txt",
         "Header": {
-            "Last Modified": "2024-02-25T00:42:17.859Z",
+            "Last Modified": "2024-02-26T00:40:49.062Z",
             "Title": "Cloudflare"
         },
         "Conversion": [
             [
                 "Total Lines Processed",
-                165856
+                165700
             ],
             [
                 "Comment Lines",
@@ -163,12 +163,12 @@
             ],
             [
                 "Domain-only Rules Output",
-                164941
+                164785
             ]
         ],
         "Output Formats": {
             "Just Domains": "cloudflare-justdomains.txt"
         },
-        "Domains Output": 164941
+        "Domains Output": 164785
     }
 ]
