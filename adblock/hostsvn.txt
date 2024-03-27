@@ -1,6 +1,6 @@
 !
 ! Title: HostsVN Compiled
-! Last modified: 2024-03-26T00:33:12.238Z
+! Last modified: 2024-03-27T00:32:55.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -184263,6 +184263,11 @@
 ||pp7dp.com^
 ||pp81866.com^
 ||pp83455.com^
+||pp88.com^
+||pp88.dev^
+||pp88.icu^
+||pp88app.com^
+||pp88d.net^
 ||pp9448.com^
 ||ppaawinwin.com^
 ||ppbk1.com^
